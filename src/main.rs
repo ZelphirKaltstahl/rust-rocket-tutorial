@@ -3,6 +3,7 @@
 
 // WEB FRAMEWORK
 extern crate rocket;
+#[macro_use] extern crate rocket_contrib;
 
 // SERDE SERIALIZATION
 extern crate serde;
@@ -58,9 +59,12 @@ mod app_routes {
     use json_handling::encode_to_string;
     use serde_json;
     use rocket::State;
-    use rocket::response::status::Status;
+    use rocket::http::Status;
+    use rocket::response::Responder;
     use rocket::response::content::JSON;
     use rocket::response::Failure;
+    use rocket_contrib::Value;
+    use rocket::Outcome;
 
     #[get("/learn/<vocabulary_id>/<word_id>/<status>")]
     fn learn_word(vocabulary_id: &str, word_id: &str, status: bool) -> () {
@@ -70,14 +74,14 @@ mod app_routes {
     #[get("/word/<vocabulary_id>/<word_id>")]
     fn get_word(vocabulary_context: State<VocabularyContext>,
                 vocabulary_id: &str,
-                word_id: &str) -> JSON<String> {
+                word_id: &str) -> Result<JSON<String>, Failure> {
         let the_vocabularies: Vec<Vocabulary> = vocabulary_context.vocabularies.iter()
             .filter(|voc| voc.metadata.identifier == vocabulary_id)
             .cloned()
             .collect::<Vec<Vocabulary>>();
 
         if the_vocabularies.is_empty() {
-            return Failure(Status::NotFound)
+            return Err(Failure(Status::NotFound));
         }
 
         let the_words: Vec<Word> = the_vocabularies.first().unwrap().words.iter()
@@ -85,14 +89,14 @@ mod app_routes {
             .cloned()
             .collect::<Vec<Word>>();
 
-        if the_vocabularies.is_empty() {
-
+        if the_words.is_empty() {
+            return Err(Failure(Status::NotFound));
         }
 
         let the_word_as_string: String = serde_json::to_string(&the_words[0])
             .expect("could not serialize struct Vocabulary");
 
-        JSON(the_word_as_string)
+        Ok(JSON(the_word_as_string))
     }
 
     #[get("/word/next/<vocabulary_id>")]
