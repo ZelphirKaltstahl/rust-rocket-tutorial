@@ -1,6 +1,9 @@
 #![feature(plugin)]
 #![plugin(rocket_codegen)]
 
+// STANDARD STUFF
+extern crate rand;
+
 // WEB FRAMEWORK
 extern crate rocket;
 #[macro_use] extern crate rocket_contrib;
@@ -53,6 +56,20 @@ mod json_handling {
     }
 }
 
+fn random_number(min: u64, max: u64) -> u64 {
+    use rand::Rng;
+    rand::thread_rng().gen_range(min, max)
+}
+fn pad(number: u64, padding_char: char, padding_length: usize) -> String {
+    let mut padded: String = number.to_string();
+    loop {
+        if padded.len() >= padding_length {
+            break;
+        }
+        padded = [padding_char.to_string(), padded].join("");
+    }
+    padded
+}
 
 mod app_routes {
     use app_structs::{Vocabulary, VocabularyContext, Word};
@@ -60,21 +77,22 @@ mod app_routes {
     use serde_json;
     use rocket::State;
     use rocket::http::Status;
-    use rocket::response::Responder;
     use rocket::response::content::JSON;
     use rocket::response::Failure;
-    use rocket_contrib::Value;
-    use rocket::Outcome;
+    use random_number;
+    use pad;
 
     #[get("/learn/<vocabulary_id>/<word_id>/<status>")]
     fn learn_word(vocabulary_id: &str, word_id: &str, status: bool) -> () {
-        //
+
     }
 
     #[get("/word/<vocabulary_id>/<word_id>")]
-    fn get_word(vocabulary_context: State<VocabularyContext>,
-                vocabulary_id: &str,
-                word_id: &str) -> Result<JSON<String>, Failure> {
+    fn get_word(
+        vocabulary_context: State<VocabularyContext>,
+        vocabulary_id: &str,
+        word_id: &str
+    ) -> Result<JSON<String>, Failure> {
         let the_vocabularies: Vec<Vocabulary> = vocabulary_context.vocabularies.iter()
             .filter(|voc| voc.metadata.identifier == vocabulary_id)
             .cloned()
@@ -99,14 +117,43 @@ mod app_routes {
         Ok(JSON(the_word_as_string))
     }
 
-    #[get("/word/next/<vocabulary_id>")]
-    fn get_next_word(vocabulary_id: &str) -> () {
-        //
-    }
     #[get("/word/random/<vocabulary_id>")]
-    fn get_random_word(vocabulary_id: &str) -> () {
-        //
+    fn get_random_word(
+        vocabulary_context: State<VocabularyContext>,
+        vocabulary_id: &str
+    ) -> Result<JSON<String>, Failure> {
+        println!("vocabulary_id: {:?}", vocabulary_id);
+        let vocabularies: Vec<Vocabulary> = vocabulary_context.vocabularies.iter()
+            .filter(|voc| voc.metadata.identifier == vocabulary_id)
+            .cloned()
+            .collect::<Vec<Vocabulary>>();
+
+        if vocabularies.is_empty() {
+            println!("vocabularies are empty");
+            return Err(Failure(Status::NotFound));
+        }
+
+        let random_word_id: String = pad(
+            random_number(0, vocabularies[0].words.len() as u64),
+            '0',
+            vocabularies[0].words.len().to_string().len()
+        );
+        println!("random_number_id: {:?}", random_word_id);
+
+        let the_words: Vec<Word> = vocabularies[0].words.iter()
+            .filter(|a_word| a_word.metadata.id == random_word_id)
+            .cloned()
+            .collect::<Vec<Word>>();
+
+        if the_words.is_empty() {
+            println!("words are empty");
+            return Err(Failure(Status::NotFound));
+        }
+
+        Ok(JSON(serde_json::to_string(&the_words[0])
+                .expect("could not serialize struct Vocabulary")))
     }
+
     #[get("/delete_word/<vocabulary_id>/<word_id>")]
     fn delete_word(vocabulary_id: &str, word_id: &str) -> () {
         //
@@ -189,6 +236,7 @@ fn main() {
 
     rocket::ignite()
         .manage(VocabularyContext {..Default::default()})
+        .mount("/", routes![app_routes::get_random_word])
         .mount("/", routes![app_routes::learn_word])
         .mount("/", routes![app_routes::get_word])
         .mount("/", routes![app_routes::delete_word])

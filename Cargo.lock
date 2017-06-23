@@ -2,6 +2,7 @@
 name = "attempt_01"
 version = "0.1.0"
 dependencies = [
+ "rand 0.3.15 (registry+https://github.com/rust-lang/crates.io-index)",
  "rocket 0.2.8 (registry+https://github.com/rust-lang/crates.io-index)",
  "rocket_codegen 0.2.8 (registry+https://github.com/rust-lang/crates.io-index)",
  "rocket_contrib 0.2.8 (registry+https://github.com/rust-lang/crates.io-index)",
@@ -148,6 +149,14 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 name = "quote"
 version = "0.3.15"
 source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[[package]]
+name = "rand"
+version = "0.3.15"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+dependencies = [
+ "libc 0.2.24 (registry+https://github.com/rust-lang/crates.io-index)",
+]
 
 [[package]]
 name = "redox_syscall"
@@ -384,6 +393,7 @@ source = "registry+https://github.com/rust-lang/crates.io-index"
 "checksum num_cpus 1.5.1 (registry+https://github.com/rust-lang/crates.io-index)" = "6e416ba127a4bb3ff398cb19546a8d0414f73352efe2857f4060d36f5fe5983a"
 "checksum percent-encoding 1.0.0 (registry+https://github.com/rust-lang/crates.io-index)" = "de154f638187706bde41d9b4738748933d64e6b37bdbffc0b47a97d16a6ae356"
 "checksum quote 0.3.15 (registry+https://github.com/rust-lang/crates.io-index)" = "7a6e920b65c65f10b2ae65c831a81a073a89edd28c7cce89475bff467ab4167a"
+"checksum rand 0.3.15 (registry+https://github.com/rust-lang/crates.io-index)" = "022e0636ec2519ddae48154b028864bdce4eaf7d35226ab8e65c611be97b189d"
 "checksum redox_syscall 0.1.18 (registry+https://github.com/rust-lang/crates.io-index)" = "3041aeb6000db123d2c9c751433f526e1f404b23213bd733167ab770c3989b4d"
 "checksum rocket 0.2.8 (registry+https://github.com/rust-lang/crates.io-index)" = "371b8fbbe588a08fbc858553153c1a4b6c864848260b8105ae81ef93470e09ad"
 "checksum rocket_codegen 0.2.8 (registry+https://github.com/rust-lang/crates.io-index)" = "62813eaa298ffa6b2dd0de4318670985b900bec6c4dd9a249450ea5d98e67f2b"
