@@ -5,10 +5,9 @@
         "count": 600,
         "source_note": "vocabulary taken from http://data.hskhsk.com/lists/ created by Alan Davies, alan@hskhsk.com 2013-2017"
     },
-    "words": [
-        {
+    "words": {
+        "000": {
             "metadata": {
-                "id": "000",
                 "learned": false,
                 "description": ""
             },
@@ -20,9 +19,8 @@
                 "traditional": "愛情"
             }
         },
-        {
+        "001": {
             "metadata": {
-                "id": "001",
                 "learned": false,
                 "description": ""
             },
@@ -34,9 +32,8 @@
                 "traditional": "安排"
             }
         },
-        {
+        "002": {
             "metadata": {
-                "id": "002",
                 "learned": false,
                 "description": ""
             },
@@ -48,9 +45,8 @@
                 "traditional": "安全"
             }
         },
-        {
+        "003": {
             "metadata": {
-                "id": "003",
                 "learned": false,
                 "description": ""
             },
@@ -62,9 +58,8 @@
                 "traditional": "按時"
             }
         },
-        {
+        "004": {
             "metadata": {
-                "id": "004",
                 "learned": false,
                 "description": ""
             },
@@ -76,9 +71,8 @@
                 "traditional": "按照"
             }
         },
-        {
+        "005": {
             "metadata": {
-                "id": "005",
                 "learned": false,
                 "description": ""
             },
@@ -90,9 +84,8 @@
                 "traditional": "百分之"
             }
         },
-        {
+        "006": {
             "metadata": {
-                "id": "006",
                 "learned": false,
                 "description": ""
             },
@@ -104,9 +97,8 @@
                 "traditional": "棒"
             }
         },
-        {
+        "007": {
             "metadata": {
-                "id": "007",
                 "learned": false,
                 "description": ""
             },
@@ -118,9 +110,8 @@
                 "traditional": "包子"
             }
         },
-        {
+        "008": {
             "metadata": {
-                "id": "008",
                 "learned": false,
                 "description": ""
             },
@@ -132,9 +123,8 @@
                 "traditional": "保護"
             }
         },
-        {
+        "009": {
             "metadata": {
-                "id": "009",
                 "learned": false,
                 "description": ""
             },
@@ -146,9 +136,8 @@
                 "traditional": "保證"
             }
         },
-        {
+        "010": {
             "metadata": {
-                "id": "010",
                 "learned": false,
                 "description": ""
             },
@@ -160,9 +149,8 @@
                 "traditional": "報名"
             }
         },
-        {
+        "011": {
             "metadata": {
-                "id": "011",
                 "learned": false,
                 "description": ""
             },
@@ -174,9 +162,8 @@
                 "traditional": "抱"
             }
         },
-        {
+        "012": {
             "metadata": {
-                "id": "012",
                 "learned": false,
                 "description": ""
             },
@@ -188,9 +175,8 @@
                 "traditional": "抱歉"
             }
         },
-        {
+        "013": {
             "metadata": {
-                "id": "013",
                 "learned": false,
                 "description": ""
             },
@@ -202,9 +188,8 @@
                 "traditional": "倍"
             }
         },
-        {
+        "014": {
             "metadata": {
-                "id": "014",
                 "learned": false,
                 "description": ""
             },
@@ -216,9 +201,8 @@
                 "traditional": "本來"
             }
         },
-        {
+        "015": {
             "metadata": {
-                "id": "015",
                 "learned": false,
                 "description": ""
             },
@@ -230,9 +214,8 @@
                 "traditional": "笨"
             }
         },
-        {
+        "016": {
             "metadata": {
-                "id": "016",
                 "learned": false,
                 "description": ""
             },
@@ -244,9 +227,8 @@
                 "traditional": "比如"
             }
         },
-        {
+        "017": {
             "metadata": {
-                "id": "017",
                 "learned": false,
                 "description": ""
             },
@@ -258,9 +240,8 @@
                 "traditional": "畢業"
             }
         },
-        {
+        "018": {
             "metadata": {
-                "id": "018",
                 "learned": false,
                 "description": ""
             },
@@ -272,9 +253,8 @@
                 "traditional": "遍"
             }
         },
-        {
+        "019": {
             "metadata": {
-                "id": "019",
                 "learned": false,
                 "description": ""
             },
@@ -286,9 +266,8 @@
                 "traditional": "標准"
             }
         },
-        {
+        "020": {
             "metadata": {
-                "id": "020",
                 "learned": false,
                 "description": ""
             },
@@ -300,9 +279,8 @@
                 "traditional": "表格"
             }
         },
-        {
+        "021": {
             "metadata": {
-                "id": "021",
                 "learned": false,
                 "description": ""
             },
@@ -314,9 +292,8 @@
                 "traditional": "表示"
             }
         },
-        {
+        "022": {
             "metadata": {
-                "id": "022",
                 "learned": false,
                 "description": ""
             },
@@ -328,9 +305,8 @@
                 "traditional": "表演"
             }
         },
-        {
+        "023": {
             "metadata": {
-                "id": "023",
                 "learned": false,
                 "description": ""
             },
@@ -342,9 +318,8 @@
                 "traditional": "表揚"
             }
         },
-        {
+        "024": {
             "metadata": {
-                "id": "024",
                 "learned": false,
                 "description": ""
             },
@@ -356,9 +331,8 @@
                 "traditional": "餅幹"
             }
         },
-        {
+        "025": {
             "metadata": {
-                "id": "025",
                 "learned": false,
                 "description": ""
             },
@@ -370,9 +344,8 @@
                 "traditional": "並且"
             }
         },
-        {
+        "026": {
             "metadata": {
-                "id": "026",
                 "learned": false,
                 "description": ""
             },
@@ -384,9 +357,8 @@
                 "traditional": "博士"
             }
         },
-        {
+        "027": {
             "metadata": {
-                "id": "027",
                 "learned": false,
                 "description": ""
             },
@@ -398,9 +370,8 @@
                 "traditional": "不得不"
             }
         },
-        {
+        "028": {
             "metadata": {
-                "id": "028",
                 "learned": false,
                 "description": ""
             },
@@ -412,9 +383,8 @@
                 "traditional": "不管"
             }
         },
-        {
+        "029": {
             "metadata": {
-                "id": "029",
                 "learned": false,
                 "description": ""
             },
@@ -426,9 +396,8 @@
                 "traditional": "不過"
             }
         },
-        {
+        "030": {
             "metadata": {
-                "id": "030",
                 "learned": false,
                 "description": ""
             },
@@ -440,9 +409,8 @@
                 "traditional": "不僅"
             }
         },
-        {
+        "031": {
             "metadata": {
-                "id": "031",
                 "learned": false,
                 "description": ""
             },
@@ -454,9 +422,8 @@
                 "traditional": "部分"
             }
         },
-        {
+        "032": {
             "metadata": {
-                "id": "032",
                 "learned": false,
                 "description": ""
             },
@@ -468,9 +435,8 @@
                 "traditional": "擦"
             }
         },
-        {
+        "033": {
             "metadata": {
-                "id": "033",
                 "learned": false,
                 "description": ""
             },
@@ -482,9 +448,8 @@
                 "traditional": "猜"
             }
         },
-        {
+        "034": {
             "metadata": {
-                "id": "034",
                 "learned": false,
                 "description": ""
             },
@@ -496,9 +461,8 @@
                 "traditional": "材料"
             }
         },
-        {
+        "035": {
             "metadata": {
-                "id": "035",
                 "learned": false,
                 "description": ""
             },
@@ -510,9 +474,8 @@
                 "traditional": "參觀"
             }
         },
-        {
+        "036": {
             "metadata": {
-                "id": "036",
                 "learned": false,
                 "description": ""
             },
@@ -524,9 +487,8 @@
                 "traditional": "餐廳"
             }
         },
-        {
+        "037": {
             "metadata": {
-                "id": "037",
                 "learned": false,
                 "description": ""
             },
@@ -538,9 +500,8 @@
                 "traditional": "廁所"
             }
         },
-        {
+        "038": {
             "metadata": {
-                "id": "038",
                 "learned": false,
                 "description": ""
             },
@@ -552,9 +513,8 @@
                 "traditional": "差不多"
             }
         },
-        {
+        "039": {
             "metadata": {
-                "id": "039",
                 "learned": false,
                 "description": ""
             },
@@ -566,9 +526,8 @@
                 "traditional": "長城"
             }
         },
-        {
+        "040": {
             "metadata": {
-                "id": "040",
                 "learned": false,
                 "description": ""
             },
@@ -580,9 +539,8 @@
                 "traditional": "長江"
             }
         },
-        {
+        "041": {
             "metadata": {
-                "id": "041",
                 "learned": false,
                 "description": ""
             },
@@ -594,9 +552,8 @@
                 "traditional": "嘗"
             }
         },
-        {
+        "042": {
             "metadata": {
-                "id": "042",
                 "learned": false,
                 "description": ""
             },
@@ -608,9 +565,8 @@
                 "traditional": "場"
             }
         },
-        {
+        "043": {
             "metadata": {
-                "id": "043",
                 "learned": false,
                 "description": ""
             },
@@ -622,9 +578,8 @@
                 "traditional": "超過"
             }
         },
-        {
+        "044": {
             "metadata": {
-                "id": "044",
                 "learned": false,
                 "description": ""
             },
@@ -636,9 +591,8 @@
                 "traditional": "成功"
             }
         },
-        {
+        "045": {
             "metadata": {
-                "id": "045",
                 "learned": false,
                 "description": ""
             },
@@ -650,9 +604,8 @@
                 "traditional": "成爲"
             }
         },
-        {
+        "046": {
             "metadata": {
-                "id": "046",
                 "learned": false,
                 "description": ""
             },
@@ -664,9 +617,8 @@
                 "traditional": "誠實"
             }
         },
-        {
+        "047": {
             "metadata": {
-                "id": "047",
                 "learned": false,
                 "description": ""
             },
@@ -678,9 +630,8 @@
                 "traditional": "乘坐"
             }
         },
-        {
+        "048": {
             "metadata": {
-                "id": "048",
                 "learned": false,
                 "description": ""
             },
@@ -692,9 +643,8 @@
                 "traditional": "吃驚"
             }
         },
-        {
+        "049": {
             "metadata": {
-                "id": "049",
                 "learned": false,
                 "description": ""
             },
@@ -706,9 +656,8 @@
                 "traditional": "重新"
             }
         },
-        {
+        "050": {
             "metadata": {
-                "id": "050",
                 "learned": false,
                 "description": ""
             },
@@ -720,9 +669,8 @@
                 "traditional": "抽煙"
             }
         },
-        {
+        "051": {
             "metadata": {
-                "id": "051",
                 "learned": false,
                 "description": ""
             },
@@ -734,9 +682,8 @@
                 "traditional": "出差"
             }
         },
-        {
+        "052": {
             "metadata": {
-                "id": "052",
                 "learned": false,
                 "description": ""
             },
@@ -748,9 +695,8 @@
                 "traditional": "出發"
             }
         },
-        {
+        "053": {
             "metadata": {
-                "id": "053",
                 "learned": false,
                 "description": ""
             },
@@ -762,9 +708,8 @@
                 "traditional": "出生"
             }
         },
-        {
+        "054": {
             "metadata": {
-                "id": "054",
                 "learned": false,
                 "description": ""
             },
@@ -776,9 +721,8 @@
                 "traditional": "出現"
             }
         },
-        {
+        "055": {
             "metadata": {
-                "id": "055",
                 "learned": false,
                 "description": ""
             },
@@ -790,9 +734,8 @@
                 "traditional": "廚房"
             }
         },
-        {
+        "056": {
             "metadata": {
-                "id": "056",
                 "learned": false,
                 "description": ""
             },
@@ -804,9 +747,8 @@
                 "traditional": "傳真"
             }
         },
-        {
+        "057": {
             "metadata": {
-                "id": "057",
                 "learned": false,
                 "description": ""
             },
@@ -818,9 +760,8 @@
                 "traditional": "窗戶"
             }
         },
-        {
+        "058": {
             "metadata": {
-                "id": "058",
                 "learned": false,
                 "description": ""
             },
@@ -832,9 +773,8 @@
                 "traditional": "詞語"
             }
         },
-        {
+        "059": {
             "metadata": {
-                "id": "059",
                 "learned": false,
                 "description": ""
             },
@@ -846,9 +786,8 @@
                 "traditional": "從來"
             }
         },
-        {
+        "060": {
             "metadata": {
-                "id": "060",
                 "learned": false,
                 "description": ""
             },
@@ -860,9 +799,8 @@
                 "traditional": "粗心"
             }
         },
-        {
+        "061": {
             "metadata": {
-                "id": "061",
                 "learned": false,
                 "description": ""
             },
@@ -874,9 +812,8 @@
                 "traditional": "存"
             }
         },
-        {
+        "062": {
             "metadata": {
-                "id": "062",
                 "learned": false,
                 "description": ""
             },
@@ -888,9 +825,8 @@
                 "traditional": "錯誤"
             }
         },
-        {
+        "063": {
             "metadata": {
-                "id": "063",
                 "learned": false,
                 "description": ""
             },
@@ -902,9 +838,8 @@
                 "traditional": "答案"
             }
         },
-        {
+        "064": {
             "metadata": {
-                "id": "064",
                 "learned": false,
                 "description": ""
             },
@@ -916,9 +851,8 @@
                 "traditional": "打扮"
             }
         },
-        {
+        "065": {
             "metadata": {
-                "id": "065",
                 "learned": false,
                 "description": ""
             },
@@ -930,9 +864,8 @@
                 "traditional": "打擾"
             }
         },
-        {
+        "066": {
             "metadata": {
-                "id": "066",
                 "learned": false,
                 "description": ""
             },
@@ -944,9 +877,8 @@
                 "traditional": "打印"
             }
         },
-        {
+        "067": {
             "metadata": {
-                "id": "067",
                 "learned": false,
                 "description": ""
             },
@@ -958,9 +890,8 @@
                 "traditional": "打招呼"
             }
         },
-        {
+        "068": {
             "metadata": {
-                "id": "068",
                 "learned": false,
                 "description": ""
             },
@@ -972,9 +903,8 @@
                 "traditional": "打折"
             }
         },
-        {
+        "069": {
             "metadata": {
-                "id": "069",
                 "learned": false,
                 "description": ""
             },
@@ -986,9 +916,8 @@
                 "traditional": "打針"
             }
         },
-        {
+        "070": {
             "metadata": {
-                "id": "070",
                 "learned": false,
                 "description": ""
             },
@@ -1000,9 +929,8 @@
                 "traditional": "大概"
             }
         },
-        {
+        "071": {
             "metadata": {
-                "id": "071",
                 "learned": false,
                 "description": ""
             },
@@ -1014,9 +942,8 @@
                 "traditional": "大使館"
             }
         },
-        {
+        "072": {
             "metadata": {
-                "id": "072",
                 "learned": false,
                 "description": ""
             },
@@ -1028,9 +955,8 @@
                 "traditional": "大約"
             }
         },
-        {
+        "073": {
             "metadata": {
-                "id": "073",
                 "learned": false,
                 "description": ""
             },
@@ -1042,9 +968,8 @@
                 "traditional": "大夫"
             }
         },
-        {
+        "074": {
             "metadata": {
-                "id": "074",
                 "learned": false,
                 "description": ""
             },
@@ -1056,9 +981,8 @@
                 "traditional": "戴"
             }
         },
-        {
+        "075": {
             "metadata": {
-                "id": "075",
                 "learned": false,
                 "description": ""
             },
@@ -1070,9 +994,8 @@
                 "traditional": "當"
             }
         },
-        {
+        "076": {
             "metadata": {
-                "id": "076",
                 "learned": false,
                 "description": ""
             },
@@ -1084,9 +1007,8 @@
                 "traditional": "當時"
             }
         },
-        {
+        "077": {
             "metadata": {
-                "id": "077",
                 "learned": false,
                 "description": ""
             },
@@ -1098,9 +1020,8 @@
                 "traditional": "刀"
             }
         },
-        {
+        "078": {
             "metadata": {
-                "id": "078",
                 "learned": false,
                 "description": ""
             },
@@ -1112,9 +1033,8 @@
                 "traditional": "導遊"
             }
         },
-        {
+        "079": {
             "metadata": {
-                "id": "079",
                 "learned": false,
                 "description": ""
             },
@@ -1126,9 +1046,8 @@
                 "traditional": "到處"
             }
         },
-        {
+        "080": {
             "metadata": {
-                "id": "080",
                 "learned": false,
                 "description": ""
             },
@@ -1140,9 +1059,8 @@
                 "traditional": "到底"
             }
         },
-        {
+        "081": {
             "metadata": {
-                "id": "081",
                 "learned": false,
                 "description": ""
             },
@@ -1154,9 +1072,8 @@
                 "traditional": "倒"
             }
         },
-        {
+        "082": {
             "metadata": {
-                "id": "082",
                 "learned": false,
                 "description": ""
             },
@@ -1168,9 +1085,8 @@
                 "traditional": "道歉"
             }
         },
-        {
+        "083": {
             "metadata": {
-                "id": "083",
                 "learned": false,
                 "description": ""
             },
@@ -1182,9 +1098,8 @@
                 "traditional": "得意"
             }
         },
-        {
+        "084": {
             "metadata": {
-                "id": "084",
                 "learned": false,
                 "description": ""
             },
@@ -1196,9 +1111,8 @@
                 "traditional": "得"
             }
         },
-        {
+        "085": {
             "metadata": {
-                "id": "085",
                 "learned": false,
                 "description": ""
             },
@@ -1210,9 +1124,8 @@
                 "traditional": "登機牌"
             }
         },
-        {
+        "086": {
             "metadata": {
-                "id": "086",
                 "learned": false,
                 "description": ""
             },
@@ -1224,9 +1137,8 @@
                 "traditional": "等"
             }
         },
-        {
+        "087": {
             "metadata": {
-                "id": "087",
                 "learned": false,
                 "description": ""
             },
@@ -1238,9 +1150,8 @@
                 "traditional": "低"
             }
         },
-        {
+        "088": {
             "metadata": {
-                "id": "088",
                 "learned": false,
                 "description": ""
             },
@@ -1252,9 +1163,8 @@
                 "traditional": "底"
             }
         },
-        {
+        "089": {
             "metadata": {
-                "id": "089",
                 "learned": false,
                 "description": ""
             },
@@ -1266,9 +1176,8 @@
                 "traditional": "地點"
             }
         },
-        {
+        "090": {
             "metadata": {
-                "id": "090",
                 "learned": false,
                 "description": ""
             },
@@ -1280,9 +1189,8 @@
                 "traditional": "地球"
             }
         },
-        {
+        "091": {
             "metadata": {
-                "id": "091",
                 "learned": false,
                 "description": ""
             },
@@ -1294,9 +1202,8 @@
                 "traditional": "地址"
             }
         },
-        {
+        "092": {
             "metadata": {
-                "id": "092",
                 "learned": false,
                 "description": ""
             },
@@ -1308,9 +1215,8 @@
                 "traditional": "調查"
             }
         },
-        {
+        "093": {
             "metadata": {
-                "id": "093",
                 "learned": false,
                 "description": ""
             },
@@ -1322,9 +1228,8 @@
                 "traditional": "掉"
             }
         },
-        {
+        "094": {
             "metadata": {
-                "id": "094",
                 "learned": false,
                 "description": ""
             },
@@ -1336,9 +1241,8 @@
                 "traditional": "丟"
             }
         },
-        {
+        "095": {
             "metadata": {
-                "id": "095",
                 "learned": false,
                 "description": ""
             },
@@ -1350,9 +1254,8 @@
                 "traditional": "動作"
             }
         },
-        {
+        "096": {
             "metadata": {
-                "id": "096",
                 "learned": false,
                 "description": ""
             },
@@ -1364,9 +1267,8 @@
                 "traditional": "堵車"
             }
         },
-        {
+        "097": {
             "metadata": {
-                "id": "097",
                 "learned": false,
                 "description": ""
             },
@@ -1378,9 +1280,8 @@
                 "traditional": "肚子"
             }
         },
-        {
+        "098": {
             "metadata": {
-                "id": "098",
                 "learned": false,
                 "description": ""
             },
@@ -1392,9 +1293,8 @@
                 "traditional": "短信"
             }
         },
-        {
+        "099": {
             "metadata": {
-                "id": "099",
                 "learned": false,
                 "description": ""
             },
@@ -1406,9 +1306,8 @@
                 "traditional": "對話"
             }
         },
-        {
+        "100": {
             "metadata": {
-                "id": "100",
                 "learned": false,
                 "description": ""
             },
@@ -1420,9 +1319,8 @@
                 "traditional": "對面"
             }
         },
-        {
+        "101": {
             "metadata": {
-                "id": "101",
                 "learned": false,
                 "description": ""
             },
@@ -1434,9 +1332,8 @@
                 "traditional": "對于"
             }
         },
-        {
+        "102": {
             "metadata": {
-                "id": "102",
                 "learned": false,
                 "description": ""
             },
@@ -1448,9 +1345,8 @@
                 "traditional": "兒童"
             }
         },
-        {
+        "103": {
             "metadata": {
-                "id": "103",
                 "learned": false,
                 "description": ""
             },
@@ -1462,9 +1358,8 @@
                 "traditional": "而"
             }
         },
-        {
+        "104": {
             "metadata": {
-                "id": "104",
                 "learned": false,
                 "description": ""
             },
@@ -1476,9 +1371,8 @@
                 "traditional": "發生"
             }
         },
-        {
+        "105": {
             "metadata": {
-                "id": "105",
                 "learned": false,
                 "description": ""
             },
@@ -1490,9 +1384,8 @@
                 "traditional": "發展"
             }
         },
-        {
+        "106": {
             "metadata": {
-                "id": "106",
                 "learned": false,
                 "description": ""
             },
@@ -1504,9 +1397,8 @@
                 "traditional": "法律"
             }
         },
-        {
+        "107": {
             "metadata": {
-                "id": "107",
                 "learned": false,
                 "description": ""
             },
@@ -1518,9 +1410,8 @@
                 "traditional": "翻譯"
             }
         },
-        {
+        "108": {
             "metadata": {
-                "id": "108",
                 "learned": false,
                 "description": ""
             },
@@ -1532,9 +1423,8 @@
                 "traditional": "煩惱"
             }
         },
-        {
+        "109": {
             "metadata": {
-                "id": "109",
                 "learned": false,
                 "description": ""
             },
@@ -1546,9 +1436,8 @@
                 "traditional": "反對"
             }
         },
-        {
+        "110": {
             "metadata": {
-                "id": "110",
                 "learned": false,
                 "description": ""
             },
@@ -1560,9 +1449,8 @@
                 "traditional": "方法"
             }
         },
-        {
+        "111": {
             "metadata": {
-                "id": "111",
                 "learned": false,
                 "description": ""
             },
@@ -1574,9 +1462,8 @@
                 "traditional": "方面"
             }
         },
-        {
+        "112": {
             "metadata": {
-                "id": "112",
                 "learned": false,
                 "description": ""
             },
@@ -1588,9 +1475,8 @@
                 "traditional": "方向"
             }
         },
-        {
+        "113": {
             "metadata": {
-                "id": "113",
                 "learned": false,
                 "description": ""
             },
@@ -1602,9 +1488,8 @@
                 "traditional": "房東"
             }
         },
-        {
+        "114": {
             "metadata": {
-                "id": "114",
                 "learned": false,
                 "description": ""
             },
@@ -1616,9 +1501,8 @@
                 "traditional": "放棄"
             }
         },
-        {
+        "115": {
             "metadata": {
-                "id": "115",
                 "learned": false,
                 "description": ""
             },
@@ -1630,9 +1514,8 @@
                 "traditional": "放暑假"
             }
         },
-        {
+        "116": {
             "metadata": {
-                "id": "116",
                 "learned": false,
                 "description": ""
             },
@@ -1644,9 +1527,8 @@
                 "traditional": "放松"
             }
         },
-        {
+        "117": {
             "metadata": {
-                "id": "117",
                 "learned": false,
                 "description": ""
             },
@@ -1658,9 +1540,8 @@
                 "traditional": "份"
             }
         },
-        {
+        "118": {
             "metadata": {
-                "id": "118",
                 "learned": false,
                 "description": ""
             },
@@ -1672,9 +1553,8 @@
                 "traditional": "豐富"
             }
         },
-        {
+        "119": {
             "metadata": {
-                "id": "119",
                 "learned": false,
                 "description": ""
             },
@@ -1686,9 +1566,8 @@
                 "traditional": "否則"
             }
         },
-        {
+        "120": {
             "metadata": {
-                "id": "120",
                 "learned": false,
                 "description": ""
             },
@@ -1700,9 +1579,8 @@
                 "traditional": "符合"
             }
         },
-        {
+        "121": {
             "metadata": {
-                "id": "121",
                 "learned": false,
                 "description": ""
             },
@@ -1714,9 +1592,8 @@
                 "traditional": "父親"
             }
         },
-        {
+        "122": {
             "metadata": {
-                "id": "122",
                 "learned": false,
                 "description": ""
             },
@@ -1728,9 +1605,8 @@
                 "traditional": "付款"
             }
         },
-        {
+        "123": {
             "metadata": {
-                "id": "123",
                 "learned": false,
                 "description": ""
             },
@@ -1742,9 +1618,8 @@
                 "traditional": "負責"
             }
         },
-        {
+        "124": {
             "metadata": {
-                "id": "124",
                 "learned": false,
                 "description": ""
             },
@@ -1756,9 +1631,8 @@
                 "traditional": "複印"
             }
         },
-        {
+        "125": {
             "metadata": {
-                "id": "125",
                 "learned": false,
                 "description": ""
             },
@@ -1770,9 +1644,8 @@
                 "traditional": "複雜"
             }
         },
-        {
+        "126": {
             "metadata": {
-                "id": "126",
                 "learned": false,
                 "description": ""
             },
@@ -1784,9 +1657,8 @@
                 "traditional": "富"
             }
         },
-        {
+        "127": {
             "metadata": {
-                "id": "127",
                 "learned": false,
                 "description": ""
             },
@@ -1798,9 +1670,8 @@
                 "traditional": "改變"
             }
         },
-        {
+        "128": {
             "metadata": {
-                "id": "128",
                 "learned": false,
                 "description": ""
             },
@@ -1812,9 +1683,8 @@
                 "traditional": "幹杯"
             }
         },
-        {
+        "129": {
             "metadata": {
-                "id": "129",
                 "learned": false,
                 "description": ""
             },
@@ -1826,9 +1696,8 @@
                 "traditional": "趕"
             }
         },
-        {
+        "130": {
             "metadata": {
-                "id": "130",
                 "learned": false,
                 "description": ""
             },
@@ -1840,9 +1709,8 @@
                 "traditional": "敢"
             }
         },
-        {
+        "131": {
             "metadata": {
-                "id": "131",
                 "learned": false,
                 "description": ""
             },
@@ -1854,9 +1722,8 @@
                 "traditional": "感動"
             }
         },
-        {
+        "132": {
             "metadata": {
-                "id": "132",
                 "learned": false,
                 "description": ""
             },
@@ -1868,9 +1735,8 @@
                 "traditional": "感覺"
             }
         },
-        {
+        "133": {
             "metadata": {
-                "id": "133",
                 "learned": false,
                 "description": ""
             },
@@ -1882,9 +1748,8 @@
                 "traditional": "感情"
             }
         },
-        {
+        "134": {
             "metadata": {
-                "id": "134",
                 "learned": false,
                 "description": ""
             },
@@ -1896,9 +1761,8 @@
                 "traditional": "感謝"
             }
         },
-        {
+        "135": {
             "metadata": {
-                "id": "135",
                 "learned": false,
                 "description": ""
             },
@@ -1910,9 +1774,8 @@
                 "traditional": "幹"
             }
         },
-        {
+        "136": {
             "metadata": {
-                "id": "136",
                 "learned": false,
                 "description": ""
             },
@@ -1924,9 +1787,8 @@
                 "traditional": "剛"
             }
         },
-        {
+        "137": {
             "metadata": {
-                "id": "137",
                 "learned": false,
                 "description": ""
             },
@@ -1938,9 +1800,8 @@
                 "traditional": "高速公路"
             }
         },
-        {
+        "138": {
             "metadata": {
-                "id": "138",
                 "learned": false,
                 "description": ""
             },
@@ -1952,9 +1813,8 @@
                 "traditional": "胳膊"
             }
         },
-        {
+        "139": {
             "metadata": {
-                "id": "139",
                 "learned": false,
                 "description": ""
             },
@@ -1966,9 +1826,8 @@
                 "traditional": "各"
             }
         },
-        {
+        "140": {
             "metadata": {
-                "id": "140",
                 "learned": false,
                 "description": ""
             },
@@ -1980,9 +1839,8 @@
                 "traditional": "工資"
             }
         },
-        {
+        "141": {
             "metadata": {
-                "id": "141",
                 "learned": false,
                 "description": ""
             },
@@ -1994,9 +1852,8 @@
                 "traditional": "公裏"
             }
         },
-        {
+        "142": {
             "metadata": {
-                "id": "142",
                 "learned": false,
                 "description": ""
             },
@@ -2008,9 +1865,8 @@
                 "traditional": "功夫"
             }
         },
-        {
+        "143": {
             "metadata": {
-                "id": "143",
                 "learned": false,
                 "description": ""
             },
@@ -2022,9 +1878,8 @@
                 "traditional": "共同"
             }
         },
-        {
+        "144": {
             "metadata": {
-                "id": "144",
                 "learned": false,
                 "description": ""
             },
@@ -2036,9 +1891,8 @@
                 "traditional": "購物"
             }
         },
-        {
+        "145": {
             "metadata": {
-                "id": "145",
                 "learned": false,
                 "description": ""
             },
@@ -2050,9 +1904,8 @@
                 "traditional": "夠"
             }
         },
-        {
+        "146": {
             "metadata": {
-                "id": "146",
                 "learned": false,
                 "description": ""
             },
@@ -2064,9 +1917,8 @@
                 "traditional": "估計"
             }
         },
-        {
+        "147": {
             "metadata": {
-                "id": "147",
                 "learned": false,
                 "description": ""
             },
@@ -2078,9 +1930,8 @@
                 "traditional": "鼓勵"
             }
         },
-        {
+        "148": {
             "metadata": {
-                "id": "148",
                 "learned": false,
                 "description": ""
             },
@@ -2092,9 +1943,8 @@
                 "traditional": "故意"
             }
         },
-        {
+        "149": {
             "metadata": {
-                "id": "149",
                 "learned": false,
                 "description": ""
             },
@@ -2106,9 +1956,8 @@
                 "traditional": "顧客"
             }
         },
-        {
+        "150": {
             "metadata": {
-                "id": "150",
                 "learned": false,
                 "description": ""
             },
@@ -2120,9 +1969,8 @@
                 "traditional": "挂"
             }
         },
-        {
+        "151": {
             "metadata": {
-                "id": "151",
                 "learned": false,
                 "description": ""
             },
@@ -2134,9 +1982,8 @@
                 "traditional": "關鍵"
             }
         },
-        {
+        "152": {
             "metadata": {
-                "id": "152",
                 "learned": false,
                 "description": ""
             },
@@ -2148,9 +1995,8 @@
                 "traditional": "觀衆"
             }
         },
-        {
+        "153": {
             "metadata": {
-                "id": "153",
                 "learned": false,
                 "description": ""
             },
@@ -2162,9 +2008,8 @@
                 "traditional": "管理"
             }
         },
-        {
+        "154": {
             "metadata": {
-                "id": "154",
                 "learned": false,
                 "description": ""
             },
@@ -2176,9 +2021,8 @@
                 "traditional": "光"
             }
         },
-        {
+        "155": {
             "metadata": {
-                "id": "155",
                 "learned": false,
                 "description": ""
             },
@@ -2190,9 +2034,8 @@
                 "traditional": "廣播"
             }
         },
-        {
+        "156": {
             "metadata": {
-                "id": "156",
                 "learned": false,
                 "description": ""
             },
@@ -2204,9 +2047,8 @@
                 "traditional": "廣告"
             }
         },
-        {
+        "157": {
             "metadata": {
-                "id": "157",
                 "learned": false,
                 "description": ""
             },
@@ -2218,9 +2060,8 @@
                 "traditional": "逛"
             }
         },
-        {
+        "158": {
             "metadata": {
-                "id": "158",
                 "learned": false,
                 "description": ""
             },
@@ -2232,9 +2073,8 @@
                 "traditional": "規定"
             }
         },
-        {
+        "159": {
             "metadata": {
-                "id": "159",
                 "learned": false,
                 "description": ""
             },
@@ -2246,9 +2086,8 @@
                 "traditional": "國籍"
             }
         },
-        {
+        "160": {
             "metadata": {
-                "id": "160",
                 "learned": false,
                 "description": ""
             },
@@ -2260,9 +2099,8 @@
                 "traditional": "國際"
             }
         },
-        {
+        "161": {
             "metadata": {
-                "id": "161",
                 "learned": false,
                 "description": ""
             },
@@ -2274,9 +2112,8 @@
                 "traditional": "果汁"
             }
         },
-        {
+        "162": {
             "metadata": {
-                "id": "162",
                 "learned": false,
                 "description": ""
             },
@@ -2288,9 +2125,8 @@
                 "traditional": "過程"
             }
         },
-        {
+        "163": {
             "metadata": {
-                "id": "163",
                 "learned": false,
                 "description": ""
             },
@@ -2302,9 +2138,8 @@
                 "traditional": "海洋"
             }
         },
-        {
+        "164": {
             "metadata": {
-                "id": "164",
                 "learned": false,
                 "description": ""
             },
@@ -2316,9 +2151,8 @@
                 "traditional": "害羞"
             }
         },
-        {
+        "165": {
             "metadata": {
-                "id": "165",
                 "learned": false,
                 "description": ""
             },
@@ -2330,9 +2164,8 @@
                 "traditional": "寒假"
             }
         },
-        {
+        "166": {
             "metadata": {
-                "id": "166",
                 "learned": false,
                 "description": ""
             },
@@ -2344,9 +2177,8 @@
                 "traditional": "汗"
             }
         },
-        {
+        "167": {
             "metadata": {
-                "id": "167",
                 "learned": false,
                 "description": ""
             },
@@ -2358,9 +2190,8 @@
                 "traditional": "航班"
             }
         },
-        {
+        "168": {
             "metadata": {
-                "id": "168",
                 "learned": false,
                 "description": ""
             },
@@ -2372,9 +2203,8 @@
                 "traditional": "好處"
             }
         },
-        {
+        "169": {
             "metadata": {
-                "id": "169",
                 "learned": false,
                 "description": ""
             },
@@ -2386,9 +2216,8 @@
                 "traditional": "好像"
             }
         },
-        {
+        "170": {
             "metadata": {
-                "id": "170",
                 "learned": false,
                 "description": ""
             },
@@ -2400,9 +2229,8 @@
                 "traditional": "號碼"
             }
         },
-        {
+        "171": {
             "metadata": {
-                "id": "171",
                 "learned": false,
                 "description": ""
             },
@@ -2414,9 +2242,8 @@
                 "traditional": "合格"
             }
         },
-        {
+        "172": {
             "metadata": {
-                "id": "172",
                 "learned": false,
                 "description": ""
             },
@@ -2428,9 +2255,8 @@
                 "traditional": "合適"
             }
         },
-        {
+        "173": {
             "metadata": {
-                "id": "173",
                 "learned": false,
                 "description": ""
             },
@@ -2442,9 +2268,8 @@
                 "traditional": "盒子"
             }
         },
-        {
+        "174": {
             "metadata": {
-                "id": "174",
                 "learned": false,
                 "description": ""
             },
@@ -2456,9 +2281,8 @@
                 "traditional": "後悔"
             }
         },
-        {
+        "175": {
             "metadata": {
-                "id": "175",
                 "learned": false,
                 "description": ""
             },
@@ -2470,9 +2294,8 @@
                 "traditional": "厚"
             }
         },
-        {
+        "176": {
             "metadata": {
-                "id": "176",
                 "learned": false,
                 "description": ""
             },
@@ -2484,9 +2307,8 @@
                 "traditional": "互聯網"
             }
         },
-        {
+        "177": {
             "metadata": {
-                "id": "177",
                 "learned": false,
                 "description": ""
             },
@@ -2498,9 +2320,8 @@
                 "traditional": "互相"
             }
         },
-        {
+        "178": {
             "metadata": {
-                "id": "178",
                 "learned": false,
                 "description": ""
             },
@@ -2512,9 +2333,8 @@
                 "traditional": "護士"
             }
         },
-        {
+        "179": {
             "metadata": {
-                "id": "179",
                 "learned": false,
                 "description": ""
             },
@@ -2526,9 +2346,8 @@
                 "traditional": "懷疑"
             }
         },
-        {
+        "180": {
             "metadata": {
-                "id": "180",
                 "learned": false,
                 "description": ""
             },
@@ -2540,9 +2359,8 @@
                 "traditional": "回憶"
             }
         },
-        {
+        "181": {
             "metadata": {
-                "id": "181",
                 "learned": false,
                 "description": ""
             },
@@ -2554,9 +2372,8 @@
                 "traditional": "活動"
             }
         },
-        {
+        "182": {
             "metadata": {
-                "id": "182",
                 "learned": false,
                 "description": ""
             },
@@ -2568,9 +2385,8 @@
                 "traditional": "活潑"
             }
         },
-        {
+        "183": {
             "metadata": {
-                "id": "183",
                 "learned": false,
                 "description": ""
             },
@@ -2582,9 +2398,8 @@
                 "traditional": "火"
             }
         },
-        {
+        "184": {
             "metadata": {
-                "id": "184",
                 "learned": false,
                 "description": ""
             },
@@ -2596,9 +2411,8 @@
                 "traditional": "獲得"
             }
         },
-        {
+        "185": {
             "metadata": {
-                "id": "185",
                 "learned": false,
                 "description": ""
             },
@@ -2610,9 +2424,8 @@
                 "traditional": "積極"
             }
         },
-        {
+        "186": {
             "metadata": {
-                "id": "186",
                 "learned": false,
                 "description": ""
             },
@@ -2624,9 +2437,8 @@
                 "traditional": "積累"
             }
         },
-        {
+        "187": {
             "metadata": {
-                "id": "187",
                 "learned": false,
                 "description": ""
             },
@@ -2638,9 +2450,8 @@
                 "traditional": "基礎"
             }
         },
-        {
+        "188": {
             "metadata": {
-                "id": "188",
                 "learned": false,
                 "description": ""
             },
@@ -2652,9 +2463,8 @@
                 "traditional": "激動"
             }
         },
-        {
+        "189": {
             "metadata": {
-                "id": "189",
                 "learned": false,
                 "description": ""
             },
@@ -2666,9 +2476,8 @@
                 "traditional": "及時"
             }
         },
-        {
+        "190": {
             "metadata": {
-                "id": "190",
                 "learned": false,
                 "description": ""
             },
@@ -2680,9 +2489,8 @@
                 "traditional": "即使"
             }
         },
-        {
+        "191": {
             "metadata": {
-                "id": "191",
                 "learned": false,
                 "description": ""
             },
@@ -2694,9 +2502,8 @@
                 "traditional": "計劃"
             }
         },
-        {
+        "192": {
             "metadata": {
-                "id": "192",
                 "learned": false,
                 "description": ""
             },
@@ -2708,9 +2515,8 @@
                 "traditional": "記者"
             }
         },
-        {
+        "193": {
             "metadata": {
-                "id": "193",
                 "learned": false,
                 "description": ""
             },
@@ -2722,9 +2528,8 @@
                 "traditional": "技術"
             }
         },
-        {
+        "194": {
             "metadata": {
-                "id": "194",
                 "learned": false,
                 "description": ""
             },
@@ -2736,9 +2541,8 @@
                 "traditional": "既然"
             }
         },
-        {
+        "195": {
             "metadata": {
-                "id": "195",
                 "learned": false,
                 "description": ""
             },
@@ -2750,9 +2554,8 @@
                 "traditional": "繼續"
             }
         },
-        {
+        "196": {
             "metadata": {
-                "id": "196",
                 "learned": false,
                 "description": ""
             },
@@ -2764,9 +2567,8 @@
                 "traditional": "寄"
             }
         },
-        {
+        "197": {
             "metadata": {
-                "id": "197",
                 "learned": false,
                 "description": ""
             },
@@ -2778,9 +2580,8 @@
                 "traditional": "加班"
             }
         },
-        {
+        "198": {
             "metadata": {
-                "id": "198",
                 "learned": false,
                 "description": ""
             },
@@ -2792,9 +2593,8 @@
                 "traditional": "加油站"
             }
         },
-        {
+        "199": {
             "metadata": {
-                "id": "199",
                 "learned": false,
                 "description": ""
             },
@@ -2806,9 +2606,8 @@
                 "traditional": "家具"
             }
         },
-        {
+        "200": {
             "metadata": {
-                "id": "200",
                 "learned": false,
                 "description": ""
             },
@@ -2820,9 +2619,8 @@
                 "traditional": "假"
             }
         },
-        {
+        "201": {
             "metadata": {
-                "id": "201",
                 "learned": false,
                 "description": ""
             },
@@ -2834,9 +2632,8 @@
                 "traditional": "價格"
             }
         },
-        {
+        "202": {
             "metadata": {
-                "id": "202",
                 "learned": false,
                 "description": ""
             },
@@ -2848,9 +2645,8 @@
                 "traditional": "堅持"
             }
         },
-        {
+        "203": {
             "metadata": {
-                "id": "203",
                 "learned": false,
                 "description": ""
             },
@@ -2862,9 +2658,8 @@
                 "traditional": "減肥"
             }
         },
-        {
+        "204": {
             "metadata": {
-                "id": "204",
                 "learned": false,
                 "description": ""
             },
@@ -2876,9 +2671,8 @@
                 "traditional": "減少"
             }
         },
-        {
+        "205": {
             "metadata": {
-                "id": "205",
                 "learned": false,
                 "description": ""
             },
@@ -2890,9 +2684,8 @@
                 "traditional": "建議"
             }
         },
-        {
+        "206": {
             "metadata": {
-                "id": "206",
                 "learned": false,
                 "description": ""
             },
@@ -2904,9 +2697,8 @@
                 "traditional": "將來"
             }
         },
-        {
+        "207": {
             "metadata": {
-                "id": "207",
                 "learned": false,
                 "description": ""
             },
@@ -2918,9 +2710,8 @@
                 "traditional": "獎金"
             }
         },
-        {
+        "208": {
             "metadata": {
-                "id": "208",
                 "learned": false,
                 "description": ""
             },
@@ -2932,9 +2723,8 @@
                 "traditional": "降低"
             }
         },
-        {
+        "209": {
             "metadata": {
-                "id": "209",
                 "learned": false,
                 "description": ""
             },
@@ -2946,9 +2736,8 @@
                 "traditional": "降落"
             }
         },
-        {
+        "210": {
             "metadata": {
-                "id": "210",
                 "learned": false,
                 "description": ""
             },
@@ -2960,9 +2749,8 @@
                 "traditional": "交"
             }
         },
-        {
+        "211": {
             "metadata": {
-                "id": "211",
                 "learned": false,
                 "description": ""
             },
@@ -2974,9 +2762,8 @@
                 "traditional": "交流"
             }
         },
-        {
+        "212": {
             "metadata": {
-                "id": "212",
                 "learned": false,
                 "description": ""
             },
@@ -2988,9 +2775,8 @@
                 "traditional": "交通"
             }
         },
-        {
+        "213": {
             "metadata": {
-                "id": "213",
                 "learned": false,
                 "description": ""
             },
@@ -3002,9 +2788,8 @@
                 "traditional": "郊區"
             }
         },
-        {
+        "214": {
             "metadata": {
-                "id": "214",
                 "learned": false,
                 "description": ""
             },
@@ -3016,9 +2801,8 @@
                 "traditional": "驕傲"
             }
         },
-        {
+        "215": {
             "metadata": {
-                "id": "215",
                 "learned": false,
                 "description": ""
             },
@@ -3030,9 +2814,8 @@
                 "traditional": "餃子"
             }
         },
-        {
+        "216": {
             "metadata": {
-                "id": "216",
                 "learned": false,
                 "description": ""
             },
@@ -3044,9 +2827,8 @@
                 "traditional": "教授"
             }
         },
-        {
+        "217": {
             "metadata": {
-                "id": "217",
                 "learned": false,
                 "description": ""
             },
@@ -3058,9 +2840,8 @@
                 "traditional": "教育"
             }
         },
-        {
+        "218": {
             "metadata": {
-                "id": "218",
                 "learned": false,
                 "description": ""
             },
@@ -3072,9 +2853,8 @@
                 "traditional": "接受"
             }
         },
-        {
+        "219": {
             "metadata": {
-                "id": "219",
                 "learned": false,
                 "description": ""
             },
@@ -3086,9 +2866,8 @@
                 "traditional": "接著"
             }
         },
-        {
+        "220": {
             "metadata": {
-                "id": "220",
                 "learned": false,
                 "description": ""
             },
@@ -3100,9 +2879,8 @@
                 "traditional": "節"
             }
         },
-        {
+        "221": {
             "metadata": {
-                "id": "221",
                 "learned": false,
                 "description": ""
             },
@@ -3114,9 +2892,8 @@
                 "traditional": "節約"
             }
         },
-        {
+        "222": {
             "metadata": {
-                "id": "222",
                 "learned": false,
                 "description": ""
             },
@@ -3128,9 +2905,8 @@
                 "traditional": "結果"
             }
         },
-        {
+        "223": {
             "metadata": {
-                "id": "223",
                 "learned": false,
                 "description": ""
             },
@@ -3142,9 +2918,8 @@
                 "traditional": "解釋"
             }
         },
-        {
+        "224": {
             "metadata": {
-                "id": "224",
                 "learned": false,
                 "description": ""
             },
@@ -3156,9 +2931,8 @@
                 "traditional": "盡管"
             }
         },
-        {
+        "225": {
             "metadata": {
-                "id": "225",
                 "learned": false,
                 "description": ""
             },
@@ -3170,9 +2944,8 @@
                 "traditional": "緊張"
             }
         },
-        {
+        "226": {
             "metadata": {
-                "id": "226",
                 "learned": false,
                 "description": ""
             },
@@ -3184,9 +2957,8 @@
                 "traditional": "進行"
             }
         },
-        {
+        "227": {
             "metadata": {
-                "id": "227",
                 "learned": false,
                 "description": ""
             },
@@ -3198,9 +2970,8 @@
                 "traditional": "禁止"
             }
         },
-        {
+        "228": {
             "metadata": {
-                "id": "228",
                 "learned": false,
                 "description": ""
             },
@@ -3212,9 +2983,8 @@
                 "traditional": "京劇"
             }
         },
-        {
+        "229": {
             "metadata": {
-                "id": "229",
                 "learned": false,
                 "description": ""
             },
@@ -3226,9 +2996,8 @@
                 "traditional": "經濟"
             }
         },
-        {
+        "230": {
             "metadata": {
-                "id": "230",
                 "learned": false,
                 "description": ""
             },
@@ -3240,9 +3009,8 @@
                 "traditional": "經曆"
             }
         },
-        {
+        "231": {
             "metadata": {
-                "id": "231",
                 "learned": false,
                 "description": ""
             },
@@ -3254,9 +3022,8 @@
                 "traditional": "經驗"
             }
         },
-        {
+        "232": {
             "metadata": {
-                "id": "232",
                 "learned": false,
                 "description": ""
             },
@@ -3268,9 +3035,8 @@
                 "traditional": "精彩"
             }
         },
-        {
+        "233": {
             "metadata": {
-                "id": "233",
                 "learned": false,
                 "description": ""
             },
@@ -3282,9 +3048,8 @@
                 "traditional": "景色"
             }
         },
-        {
+        "234": {
             "metadata": {
-                "id": "234",
                 "learned": false,
                 "description": ""
             },
@@ -3296,9 +3061,8 @@
                 "traditional": "警察"
             }
         },
-        {
+        "235": {
             "metadata": {
-                "id": "235",
                 "learned": false,
                 "description": ""
             },
@@ -3310,9 +3074,8 @@
                 "traditional": "競爭"
             }
         },
-        {
+        "236": {
             "metadata": {
-                "id": "236",
                 "learned": false,
                 "description": ""
             },
@@ -3324,9 +3087,8 @@
                 "traditional": "竟然"
             }
         },
-        {
+        "237": {
             "metadata": {
-                "id": "237",
                 "learned": false,
                 "description": ""
             },
@@ -3338,9 +3100,8 @@
                 "traditional": "鏡子"
             }
         },
-        {
+        "238": {
             "metadata": {
-                "id": "238",
                 "learned": false,
                 "description": ""
             },
@@ -3352,9 +3113,8 @@
                 "traditional": "究竟"
             }
         },
-        {
+        "239": {
             "metadata": {
-                "id": "239",
                 "learned": false,
                 "description": ""
             },
@@ -3366,9 +3126,8 @@
                 "traditional": "舉"
             }
         },
-        {
+        "240": {
             "metadata": {
-                "id": "240",
                 "learned": false,
                 "description": ""
             },
@@ -3380,9 +3139,8 @@
                 "traditional": "舉辦"
             }
         },
-        {
+        "241": {
             "metadata": {
-                "id": "241",
                 "learned": false,
                 "description": ""
             },
@@ -3394,9 +3152,8 @@
                 "traditional": "舉行"
             }
         },
-        {
+        "242": {
             "metadata": {
-                "id": "242",
                 "learned": false,
                 "description": ""
             },
@@ -3408,9 +3165,8 @@
                 "traditional": "拒絕"
             }
         },
-        {
+        "243": {
             "metadata": {
-                "id": "243",
                 "learned": false,
                 "description": ""
             },
@@ -3422,9 +3178,8 @@
                 "traditional": "距離"
             }
         },
-        {
+        "244": {
             "metadata": {
-                "id": "244",
                 "learned": false,
                 "description": ""
             },
@@ -3436,9 +3191,8 @@
                 "traditional": "聚會"
             }
         },
-        {
+        "245": {
             "metadata": {
-                "id": "245",
                 "learned": false,
                 "description": ""
             },
@@ -3450,9 +3204,8 @@
                 "traditional": "開玩笑"
             }
         },
-        {
+        "246": {
             "metadata": {
-                "id": "246",
                 "learned": false,
                 "description": ""
             },
@@ -3464,9 +3217,8 @@
                 "traditional": "開心"
             }
         },
-        {
+        "247": {
             "metadata": {
-                "id": "247",
                 "learned": false,
                 "description": ""
             },
@@ -3478,9 +3230,8 @@
                 "traditional": "看法"
             }
         },
-        {
+        "248": {
             "metadata": {
-                "id": "248",
                 "learned": false,
                 "description": ""
             },
@@ -3492,9 +3243,8 @@
                 "traditional": "考慮"
             }
         },
-        {
+        "249": {
             "metadata": {
-                "id": "249",
                 "learned": false,
                 "description": ""
             },
@@ -3506,9 +3256,8 @@
                 "traditional": "烤鴨"
             }
         },
-        {
+        "250": {
             "metadata": {
-                "id": "250",
                 "learned": false,
                 "description": ""
             },
@@ -3520,9 +3269,8 @@
                 "traditional": "科學"
             }
         },
-        {
+        "251": {
             "metadata": {
-                "id": "251",
                 "learned": false,
                 "description": ""
             },
@@ -3534,9 +3282,8 @@
                 "traditional": "棵"
             }
         },
-        {
+        "252": {
             "metadata": {
-                "id": "252",
                 "learned": false,
                 "description": ""
             },
@@ -3548,9 +3295,8 @@
                 "traditional": "咳嗽"
             }
         },
-        {
+        "253": {
             "metadata": {
-                "id": "253",
                 "learned": false,
                 "description": ""
             },
@@ -3562,9 +3308,8 @@
                 "traditional": "可憐"
             }
         },
-        {
+        "254": {
             "metadata": {
-                "id": "254",
                 "learned": false,
                 "description": ""
             },
@@ -3576,9 +3321,8 @@
                 "traditional": "可是"
             }
         },
-        {
+        "255": {
             "metadata": {
-                "id": "255",
                 "learned": false,
                 "description": ""
             },
@@ -3590,9 +3334,8 @@
                 "traditional": "可惜"
             }
         },
-        {
+        "256": {
             "metadata": {
-                "id": "256",
                 "learned": false,
                 "description": ""
             },
@@ -3604,9 +3347,8 @@
                 "traditional": "客廳"
             }
         },
-        {
+        "257": {
             "metadata": {
-                "id": "257",
                 "learned": false,
                 "description": ""
             },
@@ -3618,9 +3360,8 @@
                 "traditional": "肯定"
             }
         },
-        {
+        "258": {
             "metadata": {
-                "id": "258",
                 "learned": false,
                 "description": ""
             },
@@ -3632,9 +3373,8 @@
                 "traditional": "空"
             }
         },
-        {
+        "259": {
             "metadata": {
-                "id": "259",
                 "learned": false,
                 "description": ""
             },
@@ -3646,9 +3386,8 @@
                 "traditional": "空氣"
             }
         },
-        {
+        "260": {
             "metadata": {
-                "id": "260",
                 "learned": false,
                 "description": ""
             },
@@ -3660,9 +3399,8 @@
                 "traditional": "恐怕"
             }
         },
-        {
+        "261": {
             "metadata": {
-                "id": "261",
                 "learned": false,
                 "description": ""
             },
@@ -3674,9 +3412,8 @@
                 "traditional": "苦"
             }
         },
-        {
+        "262": {
             "metadata": {
-                "id": "262",
                 "learned": false,
                 "description": ""
             },
@@ -3688,9 +3425,8 @@
                 "traditional": "礦泉水"
             }
         },
-        {
+        "263": {
             "metadata": {
-                "id": "263",
                 "learned": false,
                 "description": ""
             },
@@ -3702,9 +3438,8 @@
                 "traditional": "困"
             }
         },
-        {
+        "264": {
             "metadata": {
-                "id": "264",
                 "learned": false,
                 "description": ""
             },
@@ -3716,9 +3451,8 @@
                 "traditional": "困難"
             }
         },
-        {
+        "265": {
             "metadata": {
-                "id": "265",
                 "learned": false,
                 "description": ""
             },
@@ -3730,9 +3464,8 @@
                 "traditional": "垃圾桶"
             }
         },
-        {
+        "266": {
             "metadata": {
-                "id": "266",
                 "learned": false,
                 "description": ""
             },
@@ -3744,9 +3477,8 @@
                 "traditional": "拉"
             }
         },
-        {
+        "267": {
             "metadata": {
-                "id": "267",
                 "learned": false,
                 "description": ""
             },
@@ -3758,9 +3490,8 @@
                 "traditional": "辣"
             }
         },
-        {
+        "268": {
             "metadata": {
-                "id": "268",
                 "learned": false,
                 "description": ""
             },
@@ -3772,9 +3503,8 @@
                 "traditional": "來不及"
             }
         },
-        {
+        "269": {
             "metadata": {
-                "id": "269",
                 "learned": false,
                 "description": ""
             },
@@ -3786,9 +3516,8 @@
                 "traditional": "來得及"
             }
         },
-        {
+        "270": {
             "metadata": {
-                "id": "270",
                 "learned": false,
                 "description": ""
             },
@@ -3800,9 +3529,8 @@
                 "traditional": "來自"
             }
         },
-        {
+        "271": {
             "metadata": {
-                "id": "271",
                 "learned": false,
                 "description": ""
             },
@@ -3814,9 +3542,8 @@
                 "traditional": "懶"
             }
         },
-        {
+        "272": {
             "metadata": {
-                "id": "272",
                 "learned": false,
                 "description": ""
             },
@@ -3828,9 +3555,8 @@
                 "traditional": "浪費"
             }
         },
-        {
+        "273": {
             "metadata": {
-                "id": "273",
                 "learned": false,
                 "description": ""
             },
@@ -3842,9 +3568,8 @@
                 "traditional": "浪漫"
             }
         },
-        {
+        "274": {
             "metadata": {
-                "id": "274",
                 "learned": false,
                 "description": ""
             },
@@ -3856,9 +3581,8 @@
                 "traditional": "老虎"
             }
         },
-        {
+        "275": {
             "metadata": {
-                "id": "275",
                 "learned": false,
                 "description": ""
             },
@@ -3870,9 +3594,8 @@
                 "traditional": "冷靜"
             }
         },
-        {
+        "276": {
             "metadata": {
-                "id": "276",
                 "learned": false,
                 "description": ""
             },
@@ -3884,9 +3607,8 @@
                 "traditional": "禮拜天"
             }
         },
-        {
+        "277": {
             "metadata": {
-                "id": "277",
                 "learned": false,
                 "description": ""
             },
@@ -3898,9 +3620,8 @@
                 "traditional": "禮貌"
             }
         },
-        {
+        "278": {
             "metadata": {
-                "id": "278",
                 "learned": false,
                 "description": ""
             },
@@ -3912,9 +3633,8 @@
                 "traditional": "理發"
             }
         },
-        {
+        "279": {
             "metadata": {
-                "id": "279",
                 "learned": false,
                 "description": ""
             },
@@ -3926,9 +3646,8 @@
                 "traditional": "理解"
             }
         },
-        {
+        "280": {
             "metadata": {
-                "id": "280",
                 "learned": false,
                 "description": ""
             },
@@ -3940,9 +3659,8 @@
                 "traditional": "理想"
             }
         },
-        {
+        "281": {
             "metadata": {
-                "id": "281",
                 "learned": false,
                 "description": ""
             },
@@ -3954,9 +3672,8 @@
                 "traditional": "力氣"
             }
         },
-        {
+        "282": {
             "metadata": {
-                "id": "282",
                 "learned": false,
                 "description": ""
             },
@@ -3968,9 +3685,8 @@
                 "traditional": "厲害"
             }
         },
-        {
+        "283": {
             "metadata": {
-                "id": "283",
                 "learned": false,
                 "description": ""
             },
@@ -3982,9 +3698,8 @@
                 "traditional": "例如"
             }
         },
-        {
+        "284": {
             "metadata": {
-                "id": "284",
                 "learned": false,
                 "description": ""
             },
@@ -3996,9 +3711,8 @@
                 "traditional": "倆"
             }
         },
-        {
+        "285": {
             "metadata": {
-                "id": "285",
                 "learned": false,
                 "description": ""
             },
@@ -4010,9 +3724,8 @@
                 "traditional": "連"
             }
         },
-        {
+        "286": {
             "metadata": {
-                "id": "286",
                 "learned": false,
                 "description": ""
             },
@@ -4024,9 +3737,8 @@
                 "traditional": "聯系"
             }
         },
-        {
+        "287": {
             "metadata": {
-                "id": "287",
                 "learned": false,
                 "description": ""
             },
@@ -4038,9 +3750,8 @@
                 "traditional": "涼快"
             }
         },
-        {
+        "288": {
             "metadata": {
-                "id": "288",
                 "learned": false,
                 "description": ""
             },
@@ -4052,9 +3763,8 @@
                 "traditional": "零錢"
             }
         },
-        {
+        "289": {
             "metadata": {
-                "id": "289",
                 "learned": false,
                 "description": ""
             },
@@ -4066,9 +3776,8 @@
                 "traditional": "另外"
             }
         },
-        {
+        "290": {
             "metadata": {
-                "id": "290",
                 "learned": false,
                 "description": ""
             },
@@ -4080,9 +3789,8 @@
                 "traditional": "留"
             }
         },
-        {
+        "291": {
             "metadata": {
-                "id": "291",
                 "learned": false,
                 "description": ""
             },
@@ -4094,9 +3802,8 @@
                 "traditional": "流利"
             }
         },
-        {
+        "292": {
             "metadata": {
-                "id": "292",
                 "learned": false,
                 "description": ""
             },
@@ -4108,9 +3815,8 @@
                 "traditional": "流行"
             }
         },
-        {
+        "293": {
             "metadata": {
-                "id": "293",
                 "learned": false,
                 "description": ""
             },
@@ -4122,9 +3828,8 @@
                 "traditional": "旅行"
             }
         },
-        {
+        "294": {
             "metadata": {
-                "id": "294",
                 "learned": false,
                 "description": ""
             },
@@ -4136,9 +3841,8 @@
                 "traditional": "律師"
             }
         },
-        {
+        "295": {
             "metadata": {
-                "id": "295",
                 "learned": false,
                 "description": ""
             },
@@ -4150,9 +3854,8 @@
                 "traditional": "亂"
             }
         },
-        {
+        "296": {
             "metadata": {
-                "id": "296",
                 "learned": false,
                 "description": ""
             },
@@ -4164,9 +3867,8 @@
                 "traditional": "麻煩"
             }
         },
-        {
+        "297": {
             "metadata": {
-                "id": "297",
                 "learned": false,
                 "description": ""
             },
@@ -4178,9 +3880,8 @@
                 "traditional": "馬虎"
             }
         },
-        {
+        "298": {
             "metadata": {
-                "id": "298",
                 "learned": false,
                 "description": ""
             },
@@ -4192,9 +3893,8 @@
                 "traditional": "滿"
             }
         },
-        {
+        "299": {
             "metadata": {
-                "id": "299",
                 "learned": false,
                 "description": ""
             },
@@ -4206,9 +3906,8 @@
                 "traditional": "毛"
             }
         },
-        {
+        "300": {
             "metadata": {
-                "id": "300",
                 "learned": false,
                 "description": ""
             },
@@ -4220,9 +3919,8 @@
                 "traditional": "毛巾"
             }
         },
-        {
+        "301": {
             "metadata": {
-                "id": "301",
                 "learned": false,
                 "description": ""
             },
@@ -4234,9 +3932,8 @@
                 "traditional": "美麗"
             }
         },
-        {
+        "302": {
             "metadata": {
-                "id": "302",
                 "learned": false,
                 "description": ""
             },
@@ -4248,9 +3945,8 @@
                 "traditional": "夢"
             }
         },
-        {
+        "303": {
             "metadata": {
-                "id": "303",
                 "learned": false,
                 "description": ""
             },
@@ -4262,9 +3958,8 @@
                 "traditional": "迷路"
             }
         },
-        {
+        "304": {
             "metadata": {
-                "id": "304",
                 "learned": false,
                 "description": ""
             },
@@ -4276,9 +3971,8 @@
                 "traditional": "密碼"
             }
         },
-        {
+        "305": {
             "metadata": {
-                "id": "305",
                 "learned": false,
                 "description": ""
             },
@@ -4290,9 +3984,8 @@
                 "traditional": "免費"
             }
         },
-        {
+        "306": {
             "metadata": {
-                "id": "306",
                 "learned": false,
                 "description": ""
             },
@@ -4304,9 +3997,8 @@
                 "traditional": "秒"
             }
         },
-        {
+        "307": {
             "metadata": {
-                "id": "307",
                 "learned": false,
                 "description": ""
             },
@@ -4318,9 +4010,8 @@
                 "traditional": "民族"
             }
         },
-        {
+        "308": {
             "metadata": {
-                "id": "308",
                 "learned": false,
                 "description": ""
             },
@@ -4332,9 +4023,8 @@
                 "traditional": "母親"
             }
         },
-        {
+        "309": {
             "metadata": {
-                "id": "309",
                 "learned": false,
                 "description": ""
             },
@@ -4346,9 +4036,8 @@
                 "traditional": "目的"
             }
         },
-        {
+        "310": {
             "metadata": {
-                "id": "310",
                 "learned": false,
                 "description": ""
             },
@@ -4360,9 +4049,8 @@
                 "traditional": "耐心"
             }
         },
-        {
+        "311": {
             "metadata": {
-                "id": "311",
                 "learned": false,
                 "description": ""
             },
@@ -4374,9 +4062,8 @@
                 "traditional": "難道"
             }
         },
-        {
+        "312": {
             "metadata": {
-                "id": "312",
                 "learned": false,
                 "description": ""
             },
@@ -4388,9 +4075,8 @@
                 "traditional": "難受"
             }
         },
-        {
+        "313": {
             "metadata": {
-                "id": "313",
                 "learned": false,
                 "description": ""
             },
@@ -4402,9 +4088,8 @@
                 "traditional": "內"
             }
         },
-        {
+        "314": {
             "metadata": {
-                "id": "314",
                 "learned": false,
                 "description": ""
             },
@@ -4416,9 +4101,8 @@
                 "traditional": "內容"
             }
         },
-        {
+        "315": {
             "metadata": {
-                "id": "315",
                 "learned": false,
                 "description": ""
             },
@@ -4430,9 +4114,8 @@
                 "traditional": "能力"
             }
         },
-        {
+        "316": {
             "metadata": {
-                "id": "316",
                 "learned": false,
                 "description": ""
             },
@@ -4444,9 +4127,8 @@
                 "traditional": "年齡"
             }
         },
-        {
+        "317": {
             "metadata": {
-                "id": "317",
                 "learned": false,
                 "description": ""
             },
@@ -4458,9 +4140,8 @@
                 "traditional": "弄"
             }
         },
-        {
+        "318": {
             "metadata": {
-                "id": "318",
                 "learned": false,
                 "description": ""
             },
@@ -4472,9 +4153,8 @@
                 "traditional": "暖和"
             }
         },
-        {
+        "319": {
             "metadata": {
-                "id": "319",
                 "learned": false,
                 "description": ""
             },
@@ -4486,9 +4166,8 @@
                 "traditional": "偶爾"
             }
         },
-        {
+        "320": {
             "metadata": {
-                "id": "320",
                 "learned": false,
                 "description": ""
             },
@@ -4500,9 +4179,8 @@
                 "traditional": "排隊"
             }
         },
-        {
+        "321": {
             "metadata": {
-                "id": "321",
                 "learned": false,
                 "description": ""
             },
@@ -4514,9 +4192,8 @@
                 "traditional": "排列"
             }
         },
-        {
+        "322": {
             "metadata": {
-                "id": "322",
                 "learned": false,
                 "description": ""
             },
@@ -4528,9 +4205,8 @@
                 "traditional": "判斷"
             }
         },
-        {
+        "323": {
             "metadata": {
-                "id": "323",
                 "learned": false,
                 "description": ""
             },
@@ -4542,9 +4218,8 @@
                 "traditional": "陪"
             }
         },
-        {
+        "324": {
             "metadata": {
-                "id": "324",
                 "learned": false,
                 "description": ""
             },
@@ -4556,9 +4231,8 @@
                 "traditional": "批評"
             }
         },
-        {
+        "325": {
             "metadata": {
-                "id": "325",
                 "learned": false,
                 "description": ""
             },
@@ -4570,9 +4244,8 @@
                 "traditional": "皮膚"
             }
         },
-        {
+        "326": {
             "metadata": {
-                "id": "326",
                 "learned": false,
                 "description": ""
             },
@@ -4584,9 +4257,8 @@
                 "traditional": "脾氣"
             }
         },
-        {
+        "327": {
             "metadata": {
-                "id": "327",
                 "learned": false,
                 "description": ""
             },
@@ -4598,9 +4270,8 @@
                 "traditional": "篇"
             }
         },
-        {
+        "328": {
             "metadata": {
-                "id": "328",
                 "learned": false,
                 "description": ""
             },
@@ -4612,9 +4283,8 @@
                 "traditional": "騙"
             }
         },
-        {
+        "329": {
             "metadata": {
-                "id": "329",
                 "learned": false,
                 "description": ""
             },
@@ -4626,9 +4296,8 @@
                 "traditional": "乒乓球"
             }
         },
-        {
+        "330": {
             "metadata": {
-                "id": "330",
                 "learned": false,
                 "description": ""
             },
@@ -4640,9 +4309,8 @@
                 "traditional": "平時"
             }
         },
-        {
+        "331": {
             "metadata": {
-                "id": "331",
                 "learned": false,
                 "description": ""
             },
@@ -4654,9 +4322,8 @@
                 "traditional": "破"
             }
         },
-        {
+        "332": {
             "metadata": {
-                "id": "332",
                 "learned": false,
                 "description": ""
             },
@@ -4668,9 +4335,8 @@
                 "traditional": "葡萄"
             }
         },
-        {
+        "333": {
             "metadata": {
-                "id": "333",
                 "learned": false,
                 "description": ""
             },
@@ -4682,9 +4348,8 @@
                 "traditional": "普遍"
             }
         },
-        {
+        "334": {
             "metadata": {
-                "id": "334",
                 "learned": false,
                 "description": ""
             },
@@ -4696,9 +4361,8 @@
                 "traditional": "普通話"
             }
         },
-        {
+        "335": {
             "metadata": {
-                "id": "335",
                 "learned": false,
                 "description": ""
             },
@@ -4710,9 +4374,8 @@
                 "traditional": "其次"
             }
         },
-        {
+        "336": {
             "metadata": {
-                "id": "336",
                 "learned": false,
                 "description": ""
             },
@@ -4724,9 +4387,8 @@
                 "traditional": "其中"
             }
         },
-        {
+        "337": {
             "metadata": {
-                "id": "337",
                 "learned": false,
                 "description": ""
             },
@@ -4738,9 +4400,8 @@
                 "traditional": "氣候"
             }
         },
-        {
+        "338": {
             "metadata": {
-                "id": "338",
                 "learned": false,
                 "description": ""
             },
@@ -4752,9 +4413,8 @@
                 "traditional": "千萬"
             }
         },
-        {
+        "339": {
             "metadata": {
-                "id": "339",
                 "learned": false,
                 "description": ""
             },
@@ -4766,9 +4426,8 @@
                 "traditional": "簽證"
             }
         },
-        {
+        "340": {
             "metadata": {
-                "id": "340",
                 "learned": false,
                 "description": ""
             },
@@ -4780,9 +4439,8 @@
                 "traditional": "敲"
             }
         },
-        {
+        "341": {
             "metadata": {
-                "id": "341",
                 "learned": false,
                 "description": ""
             },
@@ -4794,9 +4452,8 @@
                 "traditional": "橋"
             }
         },
-        {
+        "342": {
             "metadata": {
-                "id": "342",
                 "learned": false,
                 "description": ""
             },
@@ -4808,9 +4465,8 @@
                 "traditional": "巧克力"
             }
         },
-        {
+        "343": {
             "metadata": {
-                "id": "343",
                 "learned": false,
                 "description": ""
             },
@@ -4822,9 +4478,8 @@
                 "traditional": "親戚"
             }
         },
-        {
+        "344": {
             "metadata": {
-                "id": "344",
                 "learned": false,
                 "description": ""
             },
@@ -4836,9 +4491,8 @@
                 "traditional": "輕"
             }
         },
-        {
+        "345": {
             "metadata": {
-                "id": "345",
                 "learned": false,
                 "description": ""
             },
@@ -4850,9 +4504,8 @@
                 "traditional": "輕松"
             }
         },
-        {
+        "346": {
             "metadata": {
-                "id": "346",
                 "learned": false,
                 "description": ""
             },
@@ -4864,9 +4517,8 @@
                 "traditional": "情況"
             }
         },
-        {
+        "347": {
             "metadata": {
-                "id": "347",
                 "learned": false,
                 "description": ""
             },
@@ -4878,9 +4530,8 @@
                 "traditional": "窮"
             }
         },
-        {
+        "348": {
             "metadata": {
-                "id": "348",
                 "learned": false,
                 "description": ""
             },
@@ -4892,9 +4543,8 @@
                 "traditional": "區別"
             }
         },
-        {
+        "349": {
             "metadata": {
-                "id": "349",
                 "learned": false,
                 "description": ""
             },
@@ -4906,9 +4556,8 @@
                 "traditional": "取"
             }
         },
-        {
+        "350": {
             "metadata": {
-                "id": "350",
                 "learned": false,
                 "description": ""
             },
@@ -4920,9 +4569,8 @@
                 "traditional": "全部"
             }
         },
-        {
+        "351": {
             "metadata": {
-                "id": "351",
                 "learned": false,
                 "description": ""
             },
@@ -4934,9 +4582,8 @@
                 "traditional": "缺點"
             }
         },
-        {
+        "352": {
             "metadata": {
-                "id": "352",
                 "learned": false,
                 "description": ""
             },
@@ -4948,9 +4595,8 @@
                 "traditional": "缺少"
             }
         },
-        {
+        "353": {
             "metadata": {
-                "id": "353",
                 "learned": false,
                 "description": ""
             },
@@ -4962,9 +4608,8 @@
                 "traditional": "卻"
             }
         },
-        {
+        "354": {
             "metadata": {
-                "id": "354",
                 "learned": false,
                 "description": ""
             },
@@ -4976,9 +4621,8 @@
                 "traditional": "確實"
             }
         },
-        {
+        "355": {
             "metadata": {
-                "id": "355",
                 "learned": false,
                 "description": ""
             },
@@ -4990,9 +4634,8 @@
                 "traditional": "然而"
             }
         },
-        {
+        "356": {
             "metadata": {
-                "id": "356",
                 "learned": false,
                 "description": ""
             },
@@ -5004,9 +4647,8 @@
                 "traditional": "熱鬧"
             }
         },
-        {
+        "357": {
             "metadata": {
-                "id": "357",
                 "learned": false,
                 "description": ""
             },
@@ -5018,9 +4660,8 @@
                 "traditional": "任何"
             }
         },
-        {
+        "358": {
             "metadata": {
-                "id": "358",
                 "learned": false,
                 "description": ""
             },
@@ -5032,9 +4673,8 @@
                 "traditional": "任務"
             }
         },
-        {
+        "359": {
             "metadata": {
-                "id": "359",
                 "learned": false,
                 "description": ""
             },
@@ -5046,9 +4686,8 @@
                 "traditional": "扔"
             }
         },
-        {
+        "360": {
             "metadata": {
-                "id": "360",
                 "learned": false,
                 "description": ""
             },
@@ -5060,9 +4699,8 @@
                 "traditional": "仍然"
             }
         },
-        {
+        "361": {
             "metadata": {
-                "id": "361",
                 "learned": false,
                 "description": ""
             },
@@ -5074,9 +4712,8 @@
                 "traditional": "日記"
             }
         },
-        {
+        "362": {
             "metadata": {
-                "id": "362",
                 "learned": false,
                 "description": ""
             },
@@ -5088,9 +4725,8 @@
                 "traditional": "入口"
             }
         },
-        {
+        "363": {
             "metadata": {
-                "id": "363",
                 "learned": false,
                 "description": ""
             },
@@ -5102,9 +4738,8 @@
                 "traditional": "散步"
             }
         },
-        {
+        "364": {
             "metadata": {
-                "id": "364",
                 "learned": false,
                 "description": ""
             },
@@ -5116,9 +4751,8 @@
                 "traditional": "森林"
             }
         },
-        {
+        "365": {
             "metadata": {
-                "id": "365",
                 "learned": false,
                 "description": ""
             },
@@ -5130,9 +4764,8 @@
                 "traditional": "沙發"
             }
         },
-        {
+        "366": {
             "metadata": {
-                "id": "366",
                 "learned": false,
                 "description": ""
             },
@@ -5144,9 +4777,8 @@
                 "traditional": "傷心"
             }
         },
-        {
+        "367": {
             "metadata": {
-                "id": "367",
                 "learned": false,
                 "description": ""
             },
@@ -5158,9 +4790,8 @@
                 "traditional": "商量"
             }
         },
-        {
+        "368": {
             "metadata": {
-                "id": "368",
                 "learned": false,
                 "description": ""
             },
@@ -5172,9 +4803,8 @@
                 "traditional": "稍微"
             }
         },
-        {
+        "369": {
             "metadata": {
-                "id": "369",
                 "learned": false,
                 "description": ""
             },
@@ -5186,9 +4816,8 @@
                 "traditional": "勺子"
             }
         },
-        {
+        "370": {
             "metadata": {
-                "id": "370",
                 "learned": false,
                 "description": ""
             },
@@ -5200,9 +4829,8 @@
                 "traditional": "社會"
             }
         },
-        {
+        "371": {
             "metadata": {
-                "id": "371",
                 "learned": false,
                 "description": ""
             },
@@ -5214,9 +4842,8 @@
                 "traditional": "申請"
             }
         },
-        {
+        "372": {
             "metadata": {
-                "id": "372",
                 "learned": false,
                 "description": ""
             },
@@ -5228,9 +4855,8 @@
                 "traditional": "深"
             }
         },
-        {
+        "373": {
             "metadata": {
-                "id": "373",
                 "learned": false,
                 "description": ""
             },
@@ -5242,9 +4868,8 @@
                 "traditional": "甚至"
             }
         },
-        {
+        "374": {
             "metadata": {
-                "id": "374",
                 "learned": false,
                 "description": ""
             },
@@ -5256,9 +4881,8 @@
                 "traditional": "生活"
             }
         },
-        {
+        "375": {
             "metadata": {
-                "id": "375",
                 "learned": false,
                 "description": ""
             },
@@ -5270,9 +4894,8 @@
                 "traditional": "生命"
             }
         },
-        {
+        "376": {
             "metadata": {
-                "id": "376",
                 "learned": false,
                 "description": ""
             },
@@ -5284,9 +4907,8 @@
                 "traditional": "生意"
             }
         },
-        {
+        "377": {
             "metadata": {
-                "id": "377",
                 "learned": false,
                 "description": ""
             },
@@ -5298,9 +4920,8 @@
                 "traditional": "省"
             }
         },
-        {
+        "378": {
             "metadata": {
-                "id": "378",
                 "learned": false,
                 "description": ""
             },
@@ -5312,9 +4933,8 @@
                 "traditional": "剩"
             }
         },
-        {
+        "379": {
             "metadata": {
-                "id": "379",
                 "learned": false,
                 "description": ""
             },
@@ -5326,9 +4946,8 @@
                 "traditional": "失敗"
             }
         },
-        {
+        "380": {
             "metadata": {
-                "id": "380",
                 "learned": false,
                 "description": ""
             },
@@ -5340,9 +4959,8 @@
                 "traditional": "失望"
             }
         },
-        {
+        "381": {
             "metadata": {
-                "id": "381",
                 "learned": false,
                 "description": ""
             },
@@ -5354,9 +4972,8 @@
                 "traditional": "師傅"
             }
         },
-        {
+        "382": {
             "metadata": {
-                "id": "382",
                 "learned": false,
                 "description": ""
             },
@@ -5368,9 +4985,8 @@
                 "traditional": "十分"
             }
         },
-        {
+        "383": {
             "metadata": {
-                "id": "383",
                 "learned": false,
                 "description": ""
             },
@@ -5382,9 +4998,8 @@
                 "traditional": "實際"
             }
         },
-        {
+        "384": {
             "metadata": {
-                "id": "384",
                 "learned": false,
                 "description": ""
             },
@@ -5396,9 +5011,8 @@
                 "traditional": "實在"
             }
         },
-        {
+        "385": {
             "metadata": {
-                "id": "385",
                 "learned": false,
                 "description": ""
             },
@@ -5410,9 +5024,8 @@
                 "traditional": "使"
             }
         },
-        {
+        "386": {
             "metadata": {
-                "id": "386",
                 "learned": false,
                 "description": ""
             },
@@ -5424,9 +5037,8 @@
                 "traditional": "使用"
             }
         },
-        {
+        "387": {
             "metadata": {
-                "id": "387",
                 "learned": false,
                 "description": ""
             },
@@ -5438,9 +5050,8 @@
                 "traditional": "世紀"
             }
         },
-        {
+        "388": {
             "metadata": {
-                "id": "388",
                 "learned": false,
                 "description": ""
             },
@@ -5452,9 +5063,8 @@
                 "traditional": "是否"
             }
         },
-        {
+        "389": {
             "metadata": {
-                "id": "389",
                 "learned": false,
                 "description": ""
             },
@@ -5466,9 +5076,8 @@
                 "traditional": "適合"
             }
         },
-        {
+        "390": {
             "metadata": {
-                "id": "390",
                 "learned": false,
                 "description": ""
             },
@@ -5480,9 +5089,8 @@
                 "traditional": "適應"
             }
         },
-        {
+        "391": {
             "metadata": {
-                "id": "391",
                 "learned": false,
                 "description": ""
             },
@@ -5494,9 +5102,8 @@
                 "traditional": "收"
             }
         },
-        {
+        "392": {
             "metadata": {
-                "id": "392",
                 "learned": false,
                 "description": ""
             },
@@ -5508,9 +5115,8 @@
                 "traditional": "收入"
             }
         },
-        {
+        "393": {
             "metadata": {
-                "id": "393",
                 "learned": false,
                 "description": ""
             },
@@ -5522,9 +5128,8 @@
                 "traditional": "收拾"
             }
         },
-        {
+        "394": {
             "metadata": {
-                "id": "394",
                 "learned": false,
                 "description": ""
             },
@@ -5536,9 +5141,8 @@
                 "traditional": "首都"
             }
         },
-        {
+        "395": {
             "metadata": {
-                "id": "395",
                 "learned": false,
                 "description": ""
             },
@@ -5550,9 +5154,8 @@
                 "traditional": "首先"
             }
         },
-        {
+        "396": {
             "metadata": {
-                "id": "396",
                 "learned": false,
                 "description": ""
             },
@@ -5564,9 +5167,8 @@
                 "traditional": "受不了"
             }
         },
-        {
+        "397": {
             "metadata": {
-                "id": "397",
                 "learned": false,
                 "description": ""
             },
@@ -5578,9 +5180,8 @@
                 "traditional": "受到"
             }
         },
-        {
+        "398": {
             "metadata": {
-                "id": "398",
                 "learned": false,
                 "description": ""
             },
@@ -5592,9 +5193,8 @@
                 "traditional": "售貨員"
             }
         },
-        {
+        "399": {
             "metadata": {
-                "id": "399",
                 "learned": false,
                 "description": ""
             },
@@ -5606,9 +5206,8 @@
                 "traditional": "輸"
             }
         },
-        {
+        "400": {
             "metadata": {
-                "id": "400",
                 "learned": false,
                 "description": ""
             },
@@ -5620,9 +5219,8 @@
                 "traditional": "熟悉"
             }
         },
-        {
+        "401": {
             "metadata": {
-                "id": "401",
                 "learned": false,
                 "description": ""
             },
@@ -5634,9 +5232,8 @@
                 "traditional": "數量"
             }
         },
-        {
+        "402": {
             "metadata": {
-                "id": "402",
                 "learned": false,
                 "description": ""
             },
@@ -5648,9 +5245,8 @@
                 "traditional": "數字"
             }
         },
-        {
+        "403": {
             "metadata": {
-                "id": "403",
                 "learned": false,
                 "description": ""
             },
@@ -5662,9 +5258,8 @@
                 "traditional": "帥"
             }
         },
-        {
+        "404": {
             "metadata": {
-                "id": "404",
                 "learned": false,
                 "description": ""
             },
@@ -5676,9 +5271,8 @@
                 "traditional": "順便"
             }
         },
-        {
+        "405": {
             "metadata": {
-                "id": "405",
                 "learned": false,
                 "description": ""
             },
@@ -5690,9 +5284,8 @@
                 "traditional": "順利"
             }
         },
-        {
+        "406": {
             "metadata": {
-                "id": "406",
                 "learned": false,
                 "description": ""
             },
@@ -5704,9 +5297,8 @@
                 "traditional": "順序"
             }
         },
-        {
+        "407": {
             "metadata": {
-                "id": "407",
                 "learned": false,
                 "description": ""
             },
@@ -5718,9 +5310,8 @@
                 "traditional": "說明"
             }
         },
-        {
+        "408": {
             "metadata": {
-                "id": "408",
                 "learned": false,
                 "description": ""
             },
@@ -5732,9 +5323,8 @@
                 "traditional": "碩士"
             }
         },
-        {
+        "409": {
             "metadata": {
-                "id": "409",
                 "learned": false,
                 "description": ""
             },
@@ -5746,9 +5336,8 @@
                 "traditional": "死"
             }
         },
-        {
+        "410": {
             "metadata": {
-                "id": "410",
                 "learned": false,
                 "description": ""
             },
@@ -5760,9 +5349,8 @@
                 "traditional": "速度"
             }
         },
-        {
+        "411": {
             "metadata": {
-                "id": "411",
                 "learned": false,
                 "description": ""
             },
@@ -5774,9 +5362,8 @@
                 "traditional": "塑料袋"
             }
         },
-        {
+        "412": {
             "metadata": {
-                "id": "412",
                 "learned": false,
                 "description": ""
             },
@@ -5788,9 +5375,8 @@
                 "traditional": "酸"
             }
         },
-        {
+        "413": {
             "metadata": {
-                "id": "413",
                 "learned": false,
                 "description": ""
             },
@@ -5802,9 +5388,8 @@
                 "traditional": "隨便"
             }
         },
-        {
+        "414": {
             "metadata": {
-                "id": "414",
                 "learned": false,
                 "description": ""
             },
@@ -5816,9 +5401,8 @@
                 "traditional": "隨著"
             }
         },
-        {
+        "415": {
             "metadata": {
-                "id": "415",
                 "learned": false,
                 "description": ""
             },
@@ -5830,9 +5414,8 @@
                 "traditional": "孫子"
             }
         },
-        {
+        "416": {
             "metadata": {
-                "id": "416",
                 "learned": false,
                 "description": ""
             },
@@ -5844,9 +5427,8 @@
                 "traditional": "所有"
             }
         },
-        {
+        "417": {
             "metadata": {
-                "id": "417",
                 "learned": false,
                 "description": ""
             },
@@ -5858,9 +5440,8 @@
                 "traditional": "台"
             }
         },
-        {
+        "418": {
             "metadata": {
-                "id": "418",
                 "learned": false,
                 "description": ""
             },
@@ -5872,9 +5453,8 @@
                 "traditional": "擡"
             }
         },
-        {
+        "419": {
             "metadata": {
-                "id": "419",
                 "learned": false,
                 "description": ""
             },
@@ -5886,9 +5466,8 @@
                 "traditional": "態度"
             }
         },
-        {
+        "420": {
             "metadata": {
-                "id": "420",
                 "learned": false,
                 "description": ""
             },
@@ -5900,9 +5479,8 @@
                 "traditional": "談"
             }
         },
-        {
+        "421": {
             "metadata": {
-                "id": "421",
                 "learned": false,
                 "description": ""
             },
@@ -5914,9 +5492,8 @@
                 "traditional": "彈鋼琴"
             }
         },
-        {
+        "422": {
             "metadata": {
-                "id": "422",
                 "learned": false,
                 "description": ""
             },
@@ -5928,9 +5505,8 @@
                 "traditional": "湯"
             }
         },
-        {
+        "423": {
             "metadata": {
-                "id": "423",
                 "learned": false,
                 "description": ""
             },
@@ -5942,9 +5518,8 @@
                 "traditional": "糖"
             }
         },
-        {
+        "424": {
             "metadata": {
-                "id": "424",
                 "learned": false,
                 "description": ""
             },
@@ -5956,9 +5531,8 @@
                 "traditional": "躺"
             }
         },
-        {
+        "425": {
             "metadata": {
-                "id": "425",
                 "learned": false,
                 "description": ""
             },
@@ -5970,9 +5544,8 @@
                 "traditional": "趟"
             }
         },
-        {
+        "426": {
             "metadata": {
-                "id": "426",
                 "learned": false,
                 "description": ""
             },
@@ -5984,9 +5557,8 @@
                 "traditional": "討論"
             }
         },
-        {
+        "427": {
             "metadata": {
-                "id": "427",
                 "learned": false,
                 "description": ""
             },
@@ -5998,9 +5570,8 @@
                 "traditional": "討厭"
             }
         },
-        {
+        "428": {
             "metadata": {
-                "id": "428",
                 "learned": false,
                 "description": ""
             },
@@ -6012,9 +5583,8 @@
                 "traditional": "特點"
             }
         },
-        {
+        "429": {
             "metadata": {
-                "id": "429",
                 "learned": false,
                 "description": ""
             },
@@ -6026,9 +5596,8 @@
                 "traditional": "提"
             }
         },
-        {
+        "430": {
             "metadata": {
-                "id": "430",
                 "learned": false,
                 "description": ""
             },
@@ -6040,9 +5609,8 @@
                 "traditional": "提供"
             }
         },
-        {
+        "431": {
             "metadata": {
-                "id": "431",
                 "learned": false,
                 "description": ""
             },
@@ -6054,9 +5622,8 @@
                 "traditional": "提前"
             }
         },
-        {
+        "432": {
             "metadata": {
-                "id": "432",
                 "learned": false,
                 "description": ""
             },
@@ -6068,9 +5635,8 @@
                 "traditional": "提醒"
             }
         },
-        {
+        "433": {
             "metadata": {
-                "id": "433",
                 "learned": false,
                 "description": ""
             },
@@ -6082,9 +5648,8 @@
                 "traditional": "填空"
             }
         },
-        {
+        "434": {
             "metadata": {
-                "id": "434",
                 "learned": false,
                 "description": ""
             },
@@ -6096,9 +5661,8 @@
                 "traditional": "條件"
             }
         },
-        {
+        "435": {
             "metadata": {
-                "id": "435",
                 "learned": false,
                 "description": ""
             },
@@ -6110,9 +5674,8 @@
                 "traditional": "停"
             }
         },
-        {
+        "436": {
             "metadata": {
-                "id": "436",
                 "learned": false,
                 "description": ""
             },
@@ -6124,9 +5687,8 @@
                 "traditional": "挺"
             }
         },
-        {
+        "437": {
             "metadata": {
-                "id": "437",
                 "learned": false,
                 "description": ""
             },
@@ -6138,9 +5700,8 @@
                 "traditional": "通過"
             }
         },
-        {
+        "438": {
             "metadata": {
-                "id": "438",
                 "learned": false,
                 "description": ""
             },
@@ -6152,9 +5713,8 @@
                 "traditional": "通知"
             }
         },
-        {
+        "439": {
             "metadata": {
-                "id": "439",
                 "learned": false,
                 "description": ""
             },
@@ -6166,9 +5726,8 @@
                 "traditional": "同情"
             }
         },
-        {
+        "440": {
             "metadata": {
-                "id": "440",
                 "learned": false,
                 "description": ""
             },
@@ -6180,9 +5739,8 @@
                 "traditional": "同時"
             }
         },
-        {
+        "441": {
             "metadata": {
-                "id": "441",
                 "learned": false,
                 "description": ""
             },
@@ -6194,9 +5752,8 @@
                 "traditional": "推"
             }
         },
-        {
+        "442": {
             "metadata": {
-                "id": "442",
                 "learned": false,
                 "description": ""
             },
@@ -6208,9 +5765,8 @@
                 "traditional": "推遲"
             }
         },
-        {
+        "443": {
             "metadata": {
-                "id": "443",
                 "learned": false,
                 "description": ""
             },
@@ -6222,9 +5778,8 @@
                 "traditional": "脫"
             }
         },
-        {
+        "444": {
             "metadata": {
-                "id": "444",
                 "learned": false,
                 "description": ""
             },
@@ -6236,9 +5791,8 @@
                 "traditional": "襪子"
             }
         },
-        {
+        "445": {
             "metadata": {
-                "id": "445",
                 "learned": false,
                 "description": ""
             },
@@ -6250,9 +5804,8 @@
                 "traditional": "完全"
             }
         },
-        {
+        "446": {
             "metadata": {
-                "id": "446",
                 "learned": false,
                 "description": ""
             },
@@ -6264,9 +5817,8 @@
                 "traditional": "網球"
             }
         },
-        {
+        "447": {
             "metadata": {
-                "id": "447",
                 "learned": false,
                 "description": ""
             },
@@ -6278,9 +5830,8 @@
                 "traditional": "網站"
             }
         },
-        {
+        "448": {
             "metadata": {
-                "id": "448",
                 "learned": false,
                 "description": ""
             },
@@ -6292,9 +5843,8 @@
                 "traditional": "往往"
             }
         },
-        {
+        "449": {
             "metadata": {
-                "id": "449",
                 "learned": false,
                 "description": ""
             },
@@ -6306,9 +5856,8 @@
                 "traditional": "危險"
             }
         },
-        {
+        "450": {
             "metadata": {
-                "id": "450",
                 "learned": false,
                 "description": ""
             },
@@ -6320,9 +5869,8 @@
                 "traditional": "衛生間"
             }
         },
-        {
+        "451": {
             "metadata": {
-                "id": "451",
                 "learned": false,
                 "description": ""
             },
@@ -6334,9 +5882,8 @@
                 "traditional": "味道"
             }
         },
-        {
+        "452": {
             "metadata": {
-                "id": "452",
                 "learned": false,
                 "description": ""
             },
@@ -6348,9 +5895,8 @@
                 "traditional": "溫度"
             }
         },
-        {
+        "453": {
             "metadata": {
-                "id": "453",
                 "learned": false,
                 "description": ""
             },
@@ -6362,9 +5908,8 @@
                 "traditional": "文章"
             }
         },
-        {
+        "454": {
             "metadata": {
-                "id": "454",
                 "learned": false,
                 "description": ""
             },
@@ -6376,9 +5921,8 @@
                 "traditional": "汙染"
             }
         },
-        {
+        "455": {
             "metadata": {
-                "id": "455",
                 "learned": false,
                 "description": ""
             },
@@ -6390,9 +5934,8 @@
                 "traditional": "無"
             }
         },
-        {
+        "456": {
             "metadata": {
-                "id": "456",
                 "learned": false,
                 "description": ""
             },
@@ -6404,9 +5947,8 @@
                 "traditional": "無聊"
             }
         },
-        {
+        "457": {
             "metadata": {
-                "id": "457",
                 "learned": false,
                 "description": ""
             },
@@ -6418,9 +5960,8 @@
                 "traditional": "無論"
             }
         },
-        {
+        "458": {
             "metadata": {
-                "id": "458",
                 "learned": false,
                 "description": ""
             },
@@ -6432,9 +5973,8 @@
                 "traditional": "誤會"
             }
         },
-        {
+        "459": {
             "metadata": {
-                "id": "459",
                 "learned": false,
                 "description": ""
             },
@@ -6446,9 +5986,8 @@
                 "traditional": "西紅柿"
             }
         },
-        {
+        "460": {
             "metadata": {
-                "id": "460",
                 "learned": false,
                 "description": ""
             },
@@ -6460,9 +5999,8 @@
                 "traditional": "吸引"
             }
         },
-        {
+        "461": {
             "metadata": {
-                "id": "461",
                 "learned": false,
                 "description": ""
             },
@@ -6474,9 +6012,8 @@
                 "traditional": "鹹"
             }
         },
-        {
+        "462": {
             "metadata": {
-                "id": "462",
                 "learned": false,
                 "description": ""
             },
@@ -6488,9 +6025,8 @@
                 "traditional": "現金"
             }
         },
-        {
+        "463": {
             "metadata": {
-                "id": "463",
                 "learned": false,
                 "description": ""
             },
@@ -6502,9 +6038,8 @@
                 "traditional": "羨慕"
             }
         },
-        {
+        "464": {
             "metadata": {
-                "id": "464",
                 "learned": false,
                 "description": ""
             },
@@ -6516,9 +6051,8 @@
                 "traditional": "相反"
             }
         },
-        {
+        "465": {
             "metadata": {
-                "id": "465",
                 "learned": false,
                 "description": ""
             },
@@ -6530,9 +6064,8 @@
                 "traditional": "相同"
             }
         },
-        {
+        "466": {
             "metadata": {
-                "id": "466",
                 "learned": false,
                 "description": ""
             },
@@ -6544,9 +6077,8 @@
                 "traditional": "香"
             }
         },
-        {
+        "467": {
             "metadata": {
-                "id": "467",
                 "learned": false,
                 "description": ""
             },
@@ -6558,9 +6090,8 @@
                 "traditional": "詳細"
             }
         },
-        {
+        "468": {
             "metadata": {
-                "id": "468",
                 "learned": false,
                 "description": ""
             },
@@ -6572,9 +6103,8 @@
                 "traditional": "響"
             }
         },
-        {
+        "469": {
             "metadata": {
-                "id": "469",
                 "learned": false,
                 "description": ""
             },
@@ -6586,9 +6116,8 @@
                 "traditional": "橡皮"
             }
         },
-        {
+        "470": {
             "metadata": {
-                "id": "470",
                 "learned": false,
                 "description": ""
             },
@@ -6600,9 +6129,8 @@
                 "traditional": "消息"
             }
         },
-        {
+        "471": {
             "metadata": {
-                "id": "471",
                 "learned": false,
                 "description": ""
             },
@@ -6614,9 +6142,8 @@
                 "traditional": "小吃"
             }
         },
-        {
+        "472": {
             "metadata": {
-                "id": "472",
                 "learned": false,
                 "description": ""
             },
@@ -6628,9 +6155,8 @@
                 "traditional": "小夥子"
             }
         },
-        {
+        "473": {
             "metadata": {
-                "id": "473",
                 "learned": false,
                 "description": ""
             },
@@ -6642,9 +6168,8 @@
                 "traditional": "小說"
             }
         },
-        {
+        "474": {
             "metadata": {
-                "id": "474",
                 "learned": false,
                 "description": ""
             },
@@ -6656,9 +6181,8 @@
                 "traditional": "笑話"
             }
         },
-        {
+        "475": {
             "metadata": {
-                "id": "475",
                 "learned": false,
                 "description": ""
             },
@@ -6670,9 +6194,8 @@
                 "traditional": "效果"
             }
         },
-        {
+        "476": {
             "metadata": {
-                "id": "476",
                 "learned": false,
                 "description": ""
             },
@@ -6684,9 +6207,8 @@
                 "traditional": "心情"
             }
         },
-        {
+        "477": {
             "metadata": {
-                "id": "477",
                 "learned": false,
                 "description": ""
             },
@@ -6698,9 +6220,8 @@
                 "traditional": "辛苦"
             }
         },
-        {
+        "478": {
             "metadata": {
-                "id": "478",
                 "learned": false,
                 "description": ""
             },
@@ -6712,9 +6233,8 @@
                 "traditional": "信封"
             }
         },
-        {
+        "479": {
             "metadata": {
-                "id": "479",
                 "learned": false,
                 "description": ""
             },
@@ -6726,9 +6246,8 @@
                 "traditional": "信息"
             }
         },
-        {
+        "480": {
             "metadata": {
-                "id": "480",
                 "learned": false,
                 "description": ""
             },
@@ -6740,9 +6259,8 @@
                 "traditional": "信心"
             }
         },
-        {
+        "481": {
             "metadata": {
-                "id": "481",
                 "learned": false,
                 "description": ""
             },
@@ -6754,9 +6272,8 @@
                 "traditional": "興奮"
             }
         },
-        {
+        "482": {
             "metadata": {
-                "id": "482",
                 "learned": false,
                 "description": ""
             },
@@ -6768,9 +6285,8 @@
                 "traditional": "行"
             }
         },
-        {
+        "483": {
             "metadata": {
-                "id": "483",
                 "learned": false,
                 "description": ""
             },
@@ -6782,9 +6298,8 @@
                 "traditional": "醒"
             }
         },
-        {
+        "484": {
             "metadata": {
-                "id": "484",
                 "learned": false,
                 "description": ""
             },
@@ -6796,9 +6311,8 @@
                 "traditional": "幸福"
             }
         },
-        {
+        "485": {
             "metadata": {
-                "id": "485",
                 "learned": false,
                 "description": ""
             },
@@ -6810,9 +6324,8 @@
                 "traditional": "性別"
             }
         },
-        {
+        "486": {
             "metadata": {
-                "id": "486",
                 "learned": false,
                 "description": ""
             },
@@ -6824,9 +6337,8 @@
                 "traditional": "性格"
             }
         },
-        {
+        "487": {
             "metadata": {
-                "id": "487",
                 "learned": false,
                 "description": ""
             },
@@ -6838,9 +6350,8 @@
                 "traditional": "修理"
             }
         },
-        {
+        "488": {
             "metadata": {
-                "id": "488",
                 "learned": false,
                 "description": ""
             },
@@ -6852,9 +6363,8 @@
                 "traditional": "許多"
             }
         },
-        {
+        "489": {
             "metadata": {
-                "id": "489",
                 "learned": false,
                 "description": ""
             },
@@ -6866,9 +6376,8 @@
                 "traditional": "學期"
             }
         },
-        {
+        "490": {
             "metadata": {
-                "id": "490",
                 "learned": false,
                 "description": ""
             },
@@ -6880,9 +6389,8 @@
                 "traditional": "壓力"
             }
         },
-        {
+        "491": {
             "metadata": {
-                "id": "491",
                 "learned": false,
                 "description": ""
             },
@@ -6894,9 +6402,8 @@
                 "traditional": "呀"
             }
         },
-        {
+        "492": {
             "metadata": {
-                "id": "492",
                 "learned": false,
                 "description": ""
             },
@@ -6908,9 +6415,8 @@
                 "traditional": "牙膏"
             }
         },
-        {
+        "493": {
             "metadata": {
-                "id": "493",
                 "learned": false,
                 "description": ""
             },
@@ -6922,9 +6428,8 @@
                 "traditional": "亞洲"
             }
         },
-        {
+        "494": {
             "metadata": {
-                "id": "494",
                 "learned": false,
                 "description": ""
             },
@@ -6936,9 +6441,8 @@
                 "traditional": "嚴格"
             }
         },
-        {
+        "495": {
             "metadata": {
-                "id": "495",
                 "learned": false,
                 "description": ""
             },
@@ -6950,9 +6454,8 @@
                 "traditional": "嚴重"
             }
         },
-        {
+        "496": {
             "metadata": {
-                "id": "496",
                 "learned": false,
                 "description": ""
             },
@@ -6964,9 +6467,8 @@
                 "traditional": "研究"
             }
         },
-        {
+        "497": {
             "metadata": {
-                "id": "497",
                 "learned": false,
                 "description": ""
             },
@@ -6978,9 +6480,8 @@
                 "traditional": "鹽"
             }
         },
-        {
+        "498": {
             "metadata": {
-                "id": "498",
                 "learned": false,
                 "description": ""
             },
@@ -6992,9 +6493,8 @@
                 "traditional": "眼鏡"
             }
         },
-        {
+        "499": {
             "metadata": {
-                "id": "499",
                 "learned": false,
                 "description": ""
             },
@@ -7006,9 +6506,8 @@
                 "traditional": "演出"
             }
         },
-        {
+        "500": {
             "metadata": {
-                "id": "500",
                 "learned": false,
                 "description": ""
             },
@@ -7020,9 +6519,8 @@
                 "traditional": "演員"
             }
         },
-        {
+        "501": {
             "metadata": {
-                "id": "501",
                 "learned": false,
                 "description": ""
             },
@@ -7034,9 +6532,8 @@
                 "traditional": "陽光"
             }
         },
-        {
+        "502": {
             "metadata": {
-                "id": "502",
                 "learned": false,
                 "description": ""
             },
@@ -7048,9 +6545,8 @@
                 "traditional": "養成"
             }
         },
-        {
+        "503": {
             "metadata": {
-                "id": "503",
                 "learned": false,
                 "description": ""
             },
@@ -7062,9 +6558,8 @@
                 "traditional": "樣子"
             }
         },
-        {
+        "504": {
             "metadata": {
-                "id": "504",
                 "learned": false,
                 "description": ""
             },
@@ -7076,9 +6571,8 @@
                 "traditional": "邀請"
             }
         },
-        {
+        "505": {
             "metadata": {
-                "id": "505",
                 "learned": false,
                 "description": ""
             },
@@ -7090,9 +6584,8 @@
                 "traditional": "要是"
             }
         },
-        {
+        "506": {
             "metadata": {
-                "id": "506",
                 "learned": false,
                 "description": ""
             },
@@ -7104,9 +6597,8 @@
                 "traditional": "鑰匙"
             }
         },
-        {
+        "507": {
             "metadata": {
-                "id": "507",
                 "learned": false,
                 "description": ""
             },
@@ -7118,9 +6610,8 @@
                 "traditional": "也許"
             }
         },
-        {
+        "508": {
             "metadata": {
-                "id": "508",
                 "learned": false,
                 "description": ""
             },
@@ -7132,9 +6623,8 @@
                 "traditional": "葉子"
             }
         },
-        {
+        "509": {
             "metadata": {
-                "id": "509",
                 "learned": false,
                 "description": ""
             },
@@ -7146,9 +6636,8 @@
                 "traditional": "頁"
             }
         },
-        {
+        "510": {
             "metadata": {
-                "id": "510",
                 "learned": false,
                 "description": ""
             },
@@ -7160,9 +6649,8 @@
                 "traditional": "一切"
             }
         },
-        {
+        "511": {
             "metadata": {
-                "id": "511",
                 "learned": false,
                 "description": ""
             },
@@ -7174,9 +6662,8 @@
                 "traditional": "以"
             }
         },
-        {
+        "512": {
             "metadata": {
-                "id": "512",
                 "learned": false,
                 "description": ""
             },
@@ -7188,9 +6675,8 @@
                 "traditional": "以爲"
             }
         },
-        {
+        "513": {
             "metadata": {
-                "id": "513",
                 "learned": false,
                 "description": ""
             },
@@ -7202,9 +6688,8 @@
                 "traditional": "藝術"
             }
         },
-        {
+        "514": {
             "metadata": {
-                "id": "514",
                 "learned": false,
                 "description": ""
             },
@@ -7216,9 +6701,8 @@
                 "traditional": "意見"
             }
         },
-        {
+        "515": {
             "metadata": {
-                "id": "515",
                 "learned": false,
                 "description": ""
             },
@@ -7230,9 +6714,8 @@
                 "traditional": "因此"
             }
         },
-        {
+        "516": {
             "metadata": {
-                "id": "516",
                 "learned": false,
                 "description": ""
             },
@@ -7244,9 +6727,8 @@
                 "traditional": "引起"
             }
         },
-        {
+        "517": {
             "metadata": {
-                "id": "517",
                 "learned": false,
                 "description": ""
             },
@@ -7258,9 +6740,8 @@
                 "traditional": "印象"
             }
         },
-        {
+        "518": {
             "metadata": {
-                "id": "518",
                 "learned": false,
                 "description": ""
             },
@@ -7272,9 +6753,8 @@
                 "traditional": "贏"
             }
         },
-        {
+        "519": {
             "metadata": {
-                "id": "519",
                 "learned": false,
                 "description": ""
             },
@@ -7286,9 +6766,8 @@
                 "traditional": "應聘"
             }
         },
-        {
+        "520": {
             "metadata": {
-                "id": "520",
                 "learned": false,
                 "description": ""
             },
@@ -7300,9 +6779,8 @@
                 "traditional": "永遠"
             }
         },
-        {
+        "521": {
             "metadata": {
-                "id": "521",
                 "learned": false,
                 "description": ""
             },
@@ -7314,9 +6792,8 @@
                 "traditional": "勇敢"
             }
         },
-        {
+        "522": {
             "metadata": {
-                "id": "522",
                 "learned": false,
                 "description": ""
             },
@@ -7328,9 +6805,8 @@
                 "traditional": "優點"
             }
         },
-        {
+        "523": {
             "metadata": {
-                "id": "523",
                 "learned": false,
                 "description": ""
             },
@@ -7342,9 +6818,8 @@
                 "traditional": "優秀"
             }
         },
-        {
+        "524": {
             "metadata": {
-                "id": "524",
                 "learned": false,
                 "description": ""
             },
@@ -7356,9 +6831,8 @@
                 "traditional": "幽默"
             }
         },
-        {
+        "525": {
             "metadata": {
-                "id": "525",
                 "learned": false,
                 "description": ""
             },
@@ -7370,9 +6844,8 @@
                 "traditional": "尤其"
             }
         },
-        {
+        "526": {
             "metadata": {
-                "id": "526",
                 "learned": false,
                 "description": ""
             },
@@ -7384,9 +6857,8 @@
                 "traditional": "由"
             }
         },
-        {
+        "527": {
             "metadata": {
-                "id": "527",
                 "learned": false,
                 "description": ""
             },
@@ -7398,9 +6870,8 @@
                 "traditional": "由于"
             }
         },
-        {
+        "528": {
             "metadata": {
-                "id": "528",
                 "learned": false,
                 "description": ""
             },
@@ -7412,9 +6883,8 @@
                 "traditional": "郵局"
             }
         },
-        {
+        "529": {
             "metadata": {
-                "id": "529",
                 "learned": false,
                 "description": ""
             },
@@ -7426,9 +6896,8 @@
                 "traditional": "友好"
             }
         },
-        {
+        "530": {
             "metadata": {
-                "id": "530",
                 "learned": false,
                 "description": ""
             },
@@ -7440,9 +6909,8 @@
                 "traditional": "友誼"
             }
         },
-        {
+        "531": {
             "metadata": {
-                "id": "531",
                 "learned": false,
                 "description": ""
             },
@@ -7454,9 +6922,8 @@
                 "traditional": "有趣"
             }
         },
-        {
+        "532": {
             "metadata": {
-                "id": "532",
                 "learned": false,
                 "description": ""
             },
@@ -7468,9 +6935,8 @@
                 "traditional": "于是"
             }
         },
-        {
+        "533": {
             "metadata": {
-                "id": "533",
                 "learned": false,
                 "description": ""
             },
@@ -7482,9 +6948,8 @@
                 "traditional": "愉快"
             }
         },
-        {
+        "534": {
             "metadata": {
-                "id": "534",
                 "learned": false,
                 "description": ""
             },
@@ -7496,9 +6961,8 @@
                 "traditional": "與"
             }
         },
-        {
+        "535": {
             "metadata": {
-                "id": "535",
                 "learned": false,
                 "description": ""
             },
@@ -7510,9 +6974,8 @@
                 "traditional": "羽毛球"
             }
         },
-        {
+        "536": {
             "metadata": {
-                "id": "536",
                 "learned": false,
                 "description": ""
             },
@@ -7524,9 +6987,8 @@
                 "traditional": "語法"
             }
         },
-        {
+        "537": {
             "metadata": {
-                "id": "537",
                 "learned": false,
                 "description": ""
             },
@@ -7538,9 +7000,8 @@
                 "traditional": "語言"
             }
         },
-        {
+        "538": {
             "metadata": {
-                "id": "538",
                 "learned": false,
                 "description": ""
             },
@@ -7552,9 +7013,8 @@
                 "traditional": "預習"
             }
         },
-        {
+        "539": {
             "metadata": {
-                "id": "539",
                 "learned": false,
                 "description": ""
             },
@@ -7566,9 +7026,8 @@
                 "traditional": "原來"
             }
         },
-        {
+        "540": {
             "metadata": {
-                "id": "540",
                 "learned": false,
                 "description": ""
             },
@@ -7580,9 +7039,8 @@
                 "traditional": "原諒"
             }
         },
-        {
+        "541": {
             "metadata": {
-                "id": "541",
                 "learned": false,
                 "description": ""
             },
@@ -7594,9 +7052,8 @@
                 "traditional": "原因"
             }
         },
-        {
+        "542": {
             "metadata": {
-                "id": "542",
                 "learned": false,
                 "description": ""
             },
@@ -7608,9 +7065,8 @@
                 "traditional": "約會"
             }
         },
-        {
+        "543": {
             "metadata": {
-                "id": "543",
                 "learned": false,
                 "description": ""
             },
@@ -7622,9 +7078,8 @@
                 "traditional": "閱讀"
             }
         },
-        {
+        "544": {
             "metadata": {
-                "id": "544",
                 "learned": false,
                 "description": ""
             },
@@ -7636,9 +7091,8 @@
                 "traditional": "雲"
             }
         },
-        {
+        "545": {
             "metadata": {
-                "id": "545",
                 "learned": false,
                 "description": ""
             },
@@ -7650,9 +7104,8 @@
                 "traditional": "允許"
             }
         },
-        {
+        "546": {
             "metadata": {
-                "id": "546",
                 "learned": false,
                 "description": ""
             },
@@ -7664,9 +7117,8 @@
                 "traditional": "雜志"
             }
         },
-        {
+        "547": {
             "metadata": {
-                "id": "547",
                 "learned": false,
                 "description": ""
             },
@@ -7678,9 +7130,8 @@
                 "traditional": "咱們"
             }
         },
-        {
+        "548": {
             "metadata": {
-                "id": "548",
                 "learned": false,
                 "description": ""
             },
@@ -7692,9 +7143,8 @@
                 "traditional": "暫時"
             }
         },
-        {
+        "549": {
             "metadata": {
-                "id": "549",
                 "learned": false,
                 "description": ""
             },
@@ -7706,9 +7156,8 @@
                 "traditional": "髒"
             }
         },
-        {
+        "550": {
             "metadata": {
-                "id": "550",
                 "learned": false,
                 "description": ""
             },
@@ -7720,9 +7169,8 @@
                 "traditional": "責任"
             }
         },
-        {
+        "551": {
             "metadata": {
-                "id": "551",
                 "learned": false,
                 "description": ""
             },
@@ -7734,9 +7182,8 @@
                 "traditional": "增加"
             }
         },
-        {
+        "552": {
             "metadata": {
-                "id": "552",
                 "learned": false,
                 "description": ""
             },
@@ -7748,9 +7195,8 @@
                 "traditional": "占線"
             }
         },
-        {
+        "553": {
             "metadata": {
-                "id": "553",
                 "learned": false,
                 "description": ""
             },
@@ -7762,9 +7208,8 @@
                 "traditional": "招聘"
             }
         },
-        {
+        "554": {
             "metadata": {
-                "id": "554",
                 "learned": false,
                 "description": ""
             },
@@ -7776,9 +7221,8 @@
                 "traditional": "照"
             }
         },
-        {
+        "555": {
             "metadata": {
-                "id": "555",
                 "learned": false,
                 "description": ""
             },
@@ -7790,9 +7234,8 @@
                 "traditional": "真正"
             }
         },
-        {
+        "556": {
             "metadata": {
-                "id": "556",
                 "learned": false,
                 "description": ""
             },
@@ -7804,9 +7247,8 @@
                 "traditional": "整理"
             }
         },
-        {
+        "557": {
             "metadata": {
-                "id": "557",
                 "learned": false,
                 "description": ""
             },
@@ -7818,9 +7260,8 @@
                 "traditional": "正常"
             }
         },
-        {
+        "558": {
             "metadata": {
-                "id": "558",
                 "learned": false,
                 "description": ""
             },
@@ -7832,9 +7273,8 @@
                 "traditional": "正好"
             }
         },
-        {
+        "559": {
             "metadata": {
-                "id": "559",
                 "learned": false,
                 "description": ""
             },
@@ -7846,9 +7286,8 @@
                 "traditional": "正確"
             }
         },
-        {
+        "560": {
             "metadata": {
-                "id": "560",
                 "learned": false,
                 "description": ""
             },
@@ -7860,9 +7299,8 @@
                 "traditional": "正式"
             }
         },
-        {
+        "561": {
             "metadata": {
-                "id": "561",
                 "learned": false,
                 "description": ""
             },
@@ -7874,9 +7312,8 @@
                 "traditional": "證明"
             }
         },
-        {
+        "562": {
             "metadata": {
-                "id": "562",
                 "learned": false,
                 "description": ""
             },
@@ -7888,9 +7325,8 @@
                 "traditional": "之"
             }
         },
-        {
+        "563": {
             "metadata": {
-                "id": "563",
                 "learned": false,
                 "description": ""
             },
@@ -7902,9 +7338,8 @@
                 "traditional": "支持"
             }
         },
-        {
+        "564": {
             "metadata": {
-                "id": "564",
                 "learned": false,
                 "description": ""
             },
@@ -7916,9 +7351,8 @@
                 "traditional": "知識"
             }
         },
-        {
+        "565": {
             "metadata": {
-                "id": "565",
                 "learned": false,
                 "description": ""
             },
@@ -7930,9 +7364,8 @@
                 "traditional": "直接"
             }
         },
-        {
+        "566": {
             "metadata": {
-                "id": "566",
                 "learned": false,
                 "description": ""
             },
@@ -7944,9 +7377,8 @@
                 "traditional": "值得"
             }
         },
-        {
+        "567": {
             "metadata": {
-                "id": "567",
                 "learned": false,
                 "description": ""
             },
@@ -7958,9 +7390,8 @@
                 "traditional": "職業"
             }
         },
-        {
+        "568": {
             "metadata": {
-                "id": "568",
                 "learned": false,
                 "description": ""
             },
@@ -7972,9 +7403,8 @@
                 "traditional": "植物"
             }
         },
-        {
+        "569": {
             "metadata": {
-                "id": "569",
                 "learned": false,
                 "description": ""
             },
@@ -7986,9 +7416,8 @@
                 "traditional": "只好"
             }
         },
-        {
+        "570": {
             "metadata": {
-                "id": "570",
                 "learned": false,
                 "description": ""
             },
@@ -8000,9 +7429,8 @@
                 "traditional": "只要"
             }
         },
-        {
+        "571": {
             "metadata": {
-                "id": "571",
                 "learned": false,
                 "description": ""
             },
@@ -8014,9 +7442,8 @@
                 "traditional": "指"
             }
         },
-        {
+        "572": {
             "metadata": {
-                "id": "572",
                 "learned": false,
                 "description": ""
             },
@@ -8028,9 +7455,8 @@
                 "traditional": "至少"
             }
         },
-        {
+        "573": {
             "metadata": {
-                "id": "573",
                 "learned": false,
                 "description": ""
             },
@@ -8042,9 +7468,8 @@
                 "traditional": "質量"
             }
         },
-        {
+        "574": {
             "metadata": {
-                "id": "574",
                 "learned": false,
                 "description": ""
             },
@@ -8056,9 +7481,8 @@
                 "traditional": "重"
             }
         },
-        {
+        "575": {
             "metadata": {
-                "id": "575",
                 "learned": false,
                 "description": ""
             },
@@ -8070,9 +7494,8 @@
                 "traditional": "重點"
             }
         },
-        {
+        "576": {
             "metadata": {
-                "id": "576",
                 "learned": false,
                 "description": ""
             },
@@ -8084,9 +7507,8 @@
                 "traditional": "重視"
             }
         },
-        {
+        "577": {
             "metadata": {
-                "id": "577",
                 "learned": false,
                 "description": ""
             },
@@ -8098,9 +7520,8 @@
                 "traditional": "周圍"
             }
         },
-        {
+        "578": {
             "metadata": {
-                "id": "578",
                 "learned": false,
                 "description": ""
             },
@@ -8112,9 +7533,8 @@
                 "traditional": "主意"
             }
         },
-        {
+        "579": {
             "metadata": {
-                "id": "579",
                 "learned": false,
                 "description": ""
             },
@@ -8126,9 +7546,8 @@
                 "traditional": "祝賀"
             }
         },
-        {
+        "580": {
             "metadata": {
-                "id": "580",
                 "learned": false,
                 "description": ""
             },
@@ -8140,9 +7559,8 @@
                 "traditional": "著名"
             }
         },
-        {
+        "581": {
             "metadata": {
-                "id": "581",
                 "learned": false,
                 "description": ""
             },
@@ -8154,9 +7572,8 @@
                 "traditional": "專門"
             }
         },
-        {
+        "582": {
             "metadata": {
-                "id": "582",
                 "learned": false,
                 "description": ""
             },
@@ -8168,9 +7585,8 @@
                 "traditional": "專業"
             }
         },
-        {
+        "583": {
             "metadata": {
-                "id": "583",
                 "learned": false,
                 "description": ""
             },
@@ -8182,9 +7598,8 @@
                 "traditional": "轉"
             }
         },
-        {
+        "584": {
             "metadata": {
-                "id": "584",
                 "learned": false,
                 "description": ""
             },
@@ -8196,9 +7611,8 @@
                 "traditional": "賺"
             }
         },
-        {
+        "585": {
             "metadata": {
-                "id": "585",
                 "learned": false,
                 "description": ""
             },
@@ -8210,9 +7624,8 @@
                 "traditional": "准確"
             }
         },
-        {
+        "586": {
             "metadata": {
-                "id": "586",
                 "learned": false,
                 "description": ""
             },
@@ -8224,9 +7637,8 @@
                 "traditional": "准時"
             }
         },
-        {
+        "587": {
             "metadata": {
-                "id": "587",
                 "learned": false,
                 "description": ""
             },
@@ -8238,9 +7650,8 @@
                 "traditional": "仔細"
             }
         },
-        {
+        "588": {
             "metadata": {
-                "id": "588",
                 "learned": false,
                 "description": ""
             },
@@ -8252,9 +7663,8 @@
                 "traditional": "自然"
             }
         },
-        {
+        "589": {
             "metadata": {
-                "id": "589",
                 "learned": false,
                 "description": ""
             },
@@ -8266,9 +7676,8 @@
                 "traditional": "自信"
             }
         },
-        {
+        "590": {
             "metadata": {
-                "id": "590",
                 "learned": false,
                 "description": ""
             },
@@ -8280,9 +7689,8 @@
                 "traditional": "總結"
             }
         },
-        {
+        "591": {
             "metadata": {
-                "id": "591",
                 "learned": false,
                 "description": ""
             },
@@ -8294,9 +7702,8 @@
                 "traditional": "租"
             }
         },
-        {
+        "592": {
             "metadata": {
-                "id": "592",
                 "learned": false,
                 "description": ""
             },
@@ -8308,9 +7715,8 @@
                 "traditional": "最好"
             }
         },
-        {
+        "593": {
             "metadata": {
-                "id": "593",
                 "learned": false,
                 "description": ""
             },
@@ -8322,9 +7728,8 @@
                 "traditional": "尊重"
             }
         },
-        {
+        "594": {
             "metadata": {
-                "id": "594",
                 "learned": false,
                 "description": ""
             },
@@ -8336,9 +7741,8 @@
                 "traditional": "左右"
             }
         },
-        {
+        "595": {
             "metadata": {
-                "id": "595",
                 "learned": false,
                 "description": ""
             },
@@ -8350,9 +7754,8 @@
                 "traditional": "作家"
             }
         },
-        {
+        "596": {
             "metadata": {
-                "id": "596",
                 "learned": false,
                 "description": ""
             },
@@ -8364,9 +7767,8 @@
                 "traditional": "作用"
             }
         },
-        {
+        "597": {
             "metadata": {
-                "id": "597",
                 "learned": false,
                 "description": ""
             },
@@ -8378,9 +7780,8 @@
                 "traditional": "作者"
             }
         },
-        {
+        "598": {
             "metadata": {
-                "id": "598",
                 "learned": false,
                 "description": ""
             },
@@ -8392,9 +7793,8 @@
                 "traditional": "座"
             }
         },
-        {
+        "599": {
             "metadata": {
-                "id": "599",
                 "learned": false,
                 "description": ""
             },
@@ -8406,5 +7806,5 @@
                 "traditional": "座位"
             }
         }
-    ]
+    }
 }

@@ -14,11 +14,13 @@ for ind in range(1, 7):
         max_num = len(words)
         max_num_length = len(str(max_num))
 
-        for word in words:
-            new_id = pad(word['metadata']['id'], '0', max_num_length)
-            word['metadata']['id'] = new_id
+        new_words_structure = {}
 
-            all_content['words'] = words
+        for word in words:
+            new_words_structure[word['metadata']['id']] = word
+            del new_words_structure[word['metadata']['id']]['metadata']['id']
+
+        all_content['words'] = new_words_structure
 
         with open("hsk-{ind}-updated.json".format(ind=ind),
                   mode='w',
